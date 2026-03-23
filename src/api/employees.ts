@@ -1,6 +1,6 @@
 import type { Employee, EmployeeFormData, EmployeeResponse } from '../types/employee.types';
 
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://eazy-visa-erp.onrender.com/api';
 
 export const employeeApi = {
   // Récupérer tous les employés
