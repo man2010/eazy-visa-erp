@@ -1,0 +1,1775 @@
+{
+  "854518157": [
+    {
+      "name": "Fournisseurs débiteurs / avances",
+      "code": "4090",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Livres",
+      "code": "",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Taxe anticipée",
+      "code": "",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Acompte aux employés",
+      "code": "",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Dépenses prépayées",
+      "code": "",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Fonds non déposés",
+      "code": "",
+      "type": "cash"
+    },
+    {
+      "name": "Petite caisse",
+      "code": "",
+      "type": "cash"
+    },
+    {
+      "name": "Wise",
+      "code": "5214",
+      "type": "bank"
+    },
+    {
+      "name": "Comptes clients",
+      "code": "",
+      "type": "accounts_receivable"
+    },
+    {
+      "name": "Frais de développement",
+      "code": "2110",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Logiciels & licences",
+      "code": "2130",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Terrains",
+      "code": "2210",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Bâtiments",
+      "code": "2220",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Matériel & outillage",
+      "code": "2410",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Matériel de transport",
+      "code": "2450",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Mobilier de bureau",
+      "code": "2440",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Mobilier et équipement",
+      "code": "",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Clients créditeurs / acomptes",
+      "code": "4190",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Taxe à régler",
+      "code": "",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Produit reporté",
+      "code": "",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Ajustements du solde d’ouverture",
+      "code": "",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Remboursements des employés",
+      "code": "",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Comptes fournisseurs",
+      "code": "",
+      "type": "accounts_payable"
+    },
+    {
+      "name": "Emprunts auprès des tiers",
+      "code": "1680",
+      "type": "long_term_liability"
+    },
+    {
+      "name": "Emprunts auprès établissements",
+      "code": "1510",
+      "type": "long_term_liability"
+    },
+    {
+      "name": "Ajustements de dimension",
+      "code": "",
+      "type": "other_liability"
+    },
+    {
+      "name": "Bénéfices retenus",
+      "code": "",
+      "type": "equity"
+    },
+    {
+      "name": "Capitaux du propriétaire",
+      "code": "",
+      "type": "equity"
+    },
+    {
+      "name": "Compensation du solde d’ouverture",
+      "code": "",
+      "type": "equity"
+    },
+    {
+      "name": "Drawings",
+      "code": "",
+      "type": "equity"
+    },
+    {
+      "name": "Capital non amorti",
+      "code": "1011",
+      "type": "equity"
+    },
+    {
+      "name": "Capital amorti",
+      "code": "1012",
+      "type": "equity"
+    },
+    {
+      "name": "Autres charges",
+      "code": "",
+      "type": "income"
+    },
+    {
+      "name": "Ventes",
+      "code": "",
+      "type": "income"
+    },
+    {
+      "name": "Ventes de marchandises",
+      "code": "7010",
+      "type": "income"
+    },
+    {
+      "name": "Prestations de services",
+      "code": "7060",
+      "type": "income"
+    },
+    {
+      "name": "Produits accessoires",
+      "code": "7080",
+      "type": "income"
+    },
+    {
+      "name": "Revenus généraux",
+      "code": "",
+      "type": "income"
+    },
+    {
+      "name": "Revenus d’intérêts",
+      "code": "",
+      "type": "income"
+    },
+    {
+      "name": "Revenus des frais de retard",
+      "code": "",
+      "type": "income"
+    },
+    {
+      "name": "Remise",
+      "code": "",
+      "type": "income"
+    },
+    {
+      "name": "Frais d’expédition",
+      "code": "",
+      "type": "income"
+    },
+    {
+      "name": "Hébergement",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Commissions et courtages",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Remises d’achat",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Rémunération personnel extérieur",
+      "code": "6670",
+      "type": "expense"
+    },
+    {
+      "name": "Fournitures de bureau",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Publicité et marketing",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Frais bancaires et charges",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Frais de carte de crédit",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Frais de déplacement",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Dépenses téléphoniques",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Dépense automobile",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Dépenses informatiques et d’Internet",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Frais de location",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Dépenses de conciergerie",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Affranchissement",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Frais d'électricité et d'eau",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Créances irrécouvrables",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Imprimerie et papeterie",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Frais de transfert d'argent",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Salaires et rémunération des employés",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Non classé",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Repas et divertissements",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Fourniture scolaire",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Amortissement",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Dépense de consultant",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Réparations et entretien",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Autres frais",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Coût des marchandises vendues",
+      "code": "",
+      "type": "cost_of_goods_sold"
+    },
+    {
+      "name": "Échangez un gain ou une perte",
+      "code": "",
+      "type": "other_expense"
+    },
+    {
+      "name": "Nourriture",
+      "code": "",
+      "type": "other_expense"
+    },
+    {
+      "name": "Matières premières",
+      "code": "3110",
+      "type": "stock"
+    },
+    {
+      "name": "Fournitures consommables",
+      "code": "3120",
+      "type": "stock"
+    },
+    {
+      "name": "Équipement en stock",
+      "code": "",
+      "type": "stock"
+    }
+  ],
+  "873088744": [
+    {
+      "name": "Réception",
+      "code": "6383",
+      "type": "other_asset"
+    },
+    {
+      "name": "Autres virements Internes",
+      "code": "58800",
+      "type": "other_asset"
+    },
+    {
+      "name": "Fourniture non stockable / Autre energies",
+      "code": "6053",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Autres comptes débiteurs (tiers divers)",
+      "code": "467",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Charges",
+      "code": "65",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Taxe anticipée",
+      "code": "",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Fournisseurs débiteurs - Fournisseurs avances et acomptes versés",
+      "code": "409",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Personnels, Acompte et Avances versées",
+      "code": "421",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Ventes aux clients (espèces)",
+      "code": "70",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Monnaie électronique",
+      "code": "552",
+      "type": "cash"
+    },
+    {
+      "name": "Monnaie électronique WAVE",
+      "code": "5521",
+      "type": "cash"
+    },
+    {
+      "name": "Monnaie électroniqu OM",
+      "code": "5522",
+      "type": "cash"
+    },
+    {
+      "name": "Caisse",
+      "code": "571",
+      "type": "cash"
+    },
+    {
+      "name": "Petite Caisse",
+      "code": "5711",
+      "type": "cash"
+    },
+    {
+      "name": "Caisse 1",
+      "code": "5712",
+      "type": "cash"
+    },
+    {
+      "name": "Caisse 2",
+      "code": "5713",
+      "type": "cash"
+    },
+    {
+      "name": "Banque UBA",
+      "code": "5211",
+      "type": "bank"
+    },
+    {
+      "name": "Banque CMS",
+      "code": "5212",
+      "type": "bank"
+    },
+    {
+      "name": "CBAO",
+      "code": "5210000",
+      "type": "bank"
+    },
+    {
+      "name": "Wise",
+      "code": "5214",
+      "type": "bank"
+    },
+    {
+      "name": "Banque BIS",
+      "code": "5213",
+      "type": "bank"
+    },
+    {
+      "name": "Comptes clients",
+      "code": "411",
+      "type": "accounts_receivable"
+    },
+    {
+      "name": "Matériel informatique",
+      "code": "2442",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Entretien, réparations, remise en état et maintenance",
+      "code": "624",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Frais d'internet",
+      "code": "",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Charges de personnel",
+      "code": "66",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Personnel intérimaire",
+      "code": "6671",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Materiel et Outillage",
+      "code": "241",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Droit D'enregistrement",
+      "code": "6460000",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Fournitures non stockables - Eau",
+      "code": "6051",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Bonus et récompenses",
+      "code": "",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Client",
+      "code": "411",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Mobilier de bureau",
+      "code": "2444",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Personnel, rémunérations dues",
+      "code": "422",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Matériel et Mobilier de bureau",
+      "code": "244",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Dépôt et caution versés",
+      "code": "275",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Assurances Materiel de Transport",
+      "code": "6252000",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "6588 - Autres charges diverses",
+      "code": "6588",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Honoraires notaires",
+      "code": "6226",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Immobilisation corporelles",
+      "code": "22",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Frais sur instruments monnaie électronique",
+      "code": "6317",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Fournisseur",
+      "code": "4011000 Fournisseurs",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Clients crediteurs / Acomptes",
+      "code": "419",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Taxe à régler",
+      "code": "",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Produit reporté",
+      "code": "",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Ajustements du solde d’ouverture",
+      "code": "",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Remboursements des employés",
+      "code": "",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Comptes fournisseurs",
+      "code": "401",
+      "type": "accounts_payable"
+    },
+    {
+      "name": "Emprunts auprès des tiers  (non bancaires",
+      "code": "1686",
+      "type": "long_term_liability"
+    },
+    {
+      "name": "Ajustements de dimension",
+      "code": "",
+      "type": "other_liability"
+    },
+    {
+      "name": "Bénéfices retenus",
+      "code": "",
+      "type": "equity"
+    },
+    {
+      "name": "Capitaux du propriétaire",
+      "code": "",
+      "type": "equity"
+    },
+    {
+      "name": "Compensation du solde d’ouverture",
+      "code": "",
+      "type": "equity"
+    },
+    {
+      "name": "Dessins",
+      "code": "",
+      "type": "equity"
+    },
+    {
+      "name": "Autres charges",
+      "code": "",
+      "type": "income"
+    },
+    {
+      "name": "Ventes",
+      "code": "70",
+      "type": "income"
+    },
+    {
+      "name": "Commission",
+      "code": "7072",
+      "type": "income"
+    },
+    {
+      "name": "Revenus généraux",
+      "code": "",
+      "type": "income"
+    },
+    {
+      "name": "Revenus d’intérêts",
+      "code": "",
+      "type": "income"
+    },
+    {
+      "name": "Revenus des frais de retard",
+      "code": "",
+      "type": "income"
+    },
+    {
+      "name": "Rabais, remises, ristournes obtenue",
+      "code": "7069",
+      "type": "income"
+    },
+    {
+      "name": "Frais d’expédition",
+      "code": "",
+      "type": "income"
+    },
+    {
+      "name": "Réceptions",
+      "code": "6383",
+      "type": "expense"
+    },
+    {
+      "name": "Frais de recrutement du personnel",
+      "code": "6381",
+      "type": "expense"
+    },
+    {
+      "name": "Hébergement",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "frais de transfert",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Frais sur instrument ùonnaie elctronique",
+      "code": "6317",
+      "type": "expense"
+    },
+    {
+      "name": "Fourniture non stockables - Eau",
+      "code": "6051",
+      "type": "expense"
+    },
+    {
+      "name": "Rémunération transférée de personnel extérieur",
+      "code": "667",
+      "type": "expense"
+    },
+    {
+      "name": "Autres frais de transport",
+      "code": "618",
+      "type": "expense"
+    },
+    {
+      "name": "Remises d’achat",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Fournitures (général)",
+      "code": "606",
+      "type": "expense"
+    },
+    {
+      "name": "Service extérieur",
+      "code": "62",
+      "type": "expense"
+    },
+    {
+      "name": "Location de materiels et outillages",
+      "code": "6223",
+      "type": "expense"
+    },
+    {
+      "name": "Honoraires / frais judiciaires",
+      "code": "6227",
+      "type": "expense"
+    },
+    {
+      "name": "Dépenses de carburant/kilométrage",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Abonnement logiciels",
+      "code": "6171",
+      "type": "expense"
+    },
+    {
+      "name": "Logiciel",
+      "code": "2131",
+      "type": "expense"
+    },
+    {
+      "name": "Achats stockés de matières et fournitures",
+      "code": "601",
+      "type": "expense"
+    },
+    {
+      "name": "Consommables / Impression",
+      "code": "6011",
+      "type": "expense"
+    },
+    {
+      "name": "Fournitures et équipement bureau",
+      "code": "6047",
+      "type": "expense"
+    },
+    {
+      "name": "Publicité, publications, relations publiques",
+      "code": "627",
+      "type": "expense"
+    },
+    {
+      "name": "Primes et gratifications",
+      "code": "662200",
+      "type": "expense"
+    },
+    {
+      "name": "Frais bancaires et charges",
+      "code": "631",
+      "type": "expense"
+    },
+    {
+      "name": "Services exterieures ponctuelles",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Perte sur creances clients et autres debiteurs",
+      "code": "651000",
+      "type": "expense"
+    },
+    {
+      "name": "Transports du personnel",
+      "code": "614",
+      "type": "expense"
+    },
+    {
+      "name": "Déplacement personnel",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "frais de livraison",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Logiciel et Internet",
+      "code": "2193",
+      "type": "expense"
+    },
+    {
+      "name": "Wifi",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Dépense automobile",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Achat d'etude et de prestation services",
+      "code": "605700",
+      "type": "expense"
+    },
+    {
+      "name": "Dépenses informatiques et d’Internet",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Locations, charges locatives",
+      "code": "622",
+      "type": "expense"
+    },
+    {
+      "name": "Locations et charges locatives diverses",
+      "code": "6228",
+      "type": "expense"
+    },
+    {
+      "name": "Dépenses de conciergerie",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Affranchissement",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Créances irrécouvrables",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Frais de télécopie",
+      "code": "6283",
+      "type": "expense"
+    },
+    {
+      "name": "Non classé",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Salaires et rémunération des employés",
+      "code": "422",
+      "type": "expense"
+    },
+    {
+      "name": "Ravitaillement",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Fournitures non stockables - Électricité",
+      "code": "6052",
+      "type": "expense"
+    },
+    {
+      "name": "Electricité",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Amortissement",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Dépense de consultant",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Assurance Multirisque",
+      "code": "625100",
+      "type": "expense"
+    },
+    {
+      "name": "Autres services exterieures",
+      "code": "63",
+      "type": "expense"
+    },
+    {
+      "name": "Commissions et courtages",
+      "code": "6322",
+      "type": "expense"
+    },
+    {
+      "name": "Eau",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Réparations et entretien",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Autres frais",
+      "code": "605",
+      "type": "expense"
+    },
+    {
+      "name": "Produits d'hygiene",
+      "code": "6054",
+      "type": "expense"
+    },
+    {
+      "name": "Achats de travaux , materiels et équipement",
+      "code": "6058",
+      "type": "expense"
+    },
+    {
+      "name": "Dépenses de cuisine",
+      "code": "6055",
+      "type": "expense"
+    },
+    {
+      "name": "Petit matériel et outillage",
+      "code": "6056",
+      "type": "expense"
+    },
+    {
+      "name": "Outillage et matériel de constructions",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Fourniture non stockable / Autres energies",
+      "code": "6053",
+      "type": "expense"
+    },
+    {
+      "name": "Frais de télécommunications",
+      "code": "628",
+      "type": "expense"
+    },
+    {
+      "name": "Frais de téléphone",
+      "code": "6281",
+      "type": "expense"
+    },
+    {
+      "name": "Achat de livres",
+      "code": "601",
+      "type": "cost_of_goods_sold"
+    },
+    {
+      "name": "Échangez un gain ou une perte",
+      "code": "",
+      "type": "other_expense"
+    },
+    {
+      "name": "Équipement en stock",
+      "code": "",
+      "type": "stock"
+    }
+  ],
+  "909065006": [
+    {
+      "name": "Dépenses prépayées",
+      "code": "",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Taxe anticipée",
+      "code": "",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Acompte aux employés",
+      "code": "",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Fonds non déposés",
+      "code": "",
+      "type": "cash"
+    },
+    {
+      "name": "Petite caisse",
+      "code": "",
+      "type": "cash"
+    },
+    {
+      "name": "Comptes clients",
+      "code": "",
+      "type": "accounts_receivable"
+    },
+    {
+      "name": "Mobilier et équipement",
+      "code": "",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Taxe à régler",
+      "code": "",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Produit reporté",
+      "code": "",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Ajustements du solde d’ouverture",
+      "code": "",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Remboursements des employés",
+      "code": "",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Comptes fournisseurs",
+      "code": "",
+      "type": "accounts_payable"
+    },
+    {
+      "name": "Ajustements de dimension",
+      "code": "",
+      "type": "other_liability"
+    },
+    {
+      "name": "Bénéfices retenus",
+      "code": "",
+      "type": "equity"
+    },
+    {
+      "name": "Capitaux du propriétaire",
+      "code": "",
+      "type": "equity"
+    },
+    {
+      "name": "Compensation du solde d’ouverture",
+      "code": "",
+      "type": "equity"
+    },
+    {
+      "name": "Dessins",
+      "code": "",
+      "type": "equity"
+    },
+    {
+      "name": "Autres charges",
+      "code": "",
+      "type": "income"
+    },
+    {
+      "name": "Ventes",
+      "code": "",
+      "type": "income"
+    },
+    {
+      "name": "Revenus généraux",
+      "code": "",
+      "type": "income"
+    },
+    {
+      "name": "Revenus d’intérêts",
+      "code": "",
+      "type": "income"
+    },
+    {
+      "name": "Revenus des frais de retard",
+      "code": "",
+      "type": "income"
+    },
+    {
+      "name": "Remise",
+      "code": "",
+      "type": "income"
+    },
+    {
+      "name": "Frais d’expédition",
+      "code": "",
+      "type": "income"
+    },
+    {
+      "name": "Hébergement",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Stationnement",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Remises d’achat",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Fournitures de bureau",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Publicité et marketing",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Frais bancaires et charges",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Frais de carte de crédit",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Frais de déplacement",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Dépenses de carburant/kilométrage",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Dépenses téléphoniques",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Dépense automobile",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Dépenses informatiques et d’Internet",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Frais de location",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Dépenses de conciergerie",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Affranchissement",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Créances irrécouvrables",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Imprimerie et papeterie",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Salaires et rémunération des employés",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Non classé",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Repas et divertissements",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Amortissement",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Dépense de consultant",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Réparations et entretien",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Autres frais",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Coût des marchandises vendues",
+      "code": "",
+      "type": "cost_of_goods_sold"
+    },
+    {
+      "name": "Échangez un gain ou une perte",
+      "code": "",
+      "type": "other_expense"
+    },
+    {
+      "name": "Équipement en stock",
+      "code": "",
+      "type": "stock"
+    }
+  ],
+  "910367975": [
+    {
+      "name": "Autres comptes débiteurs tiers",
+      "code": "4670",
+      "type": "other_asset"
+    },
+    {
+      "name": "Dépôts & cautions versés",
+      "code": "2750",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Crédit de TVA reporté",
+      "code": "4457",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Personnel – avances & acomptes",
+      "code": "4210",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Amortissement",
+      "code": "28",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Fournisseurs débiteurs / avances",
+      "code": "4090",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "TVA Déductible",
+      "code": "4452",
+      "type": "other_current_asset"
+    },
+    {
+      "name": "Monnaie électronique",
+      "code": "5520",
+      "type": "cash"
+    },
+    {
+      "name": "WAVE",
+      "code": "5521",
+      "type": "cash"
+    },
+    {
+      "name": "ORANGE MONEY",
+      "code": "5522",
+      "type": "cash"
+    },
+    {
+      "name": "Caisse",
+      "code": "5710",
+      "type": "cash"
+    },
+    {
+      "name": "CMS ( Credit Mutuel du senegal )",
+      "code": "5211",
+      "type": "bank"
+    },
+    {
+      "name": "BIS ( Banque Islamique du Senegal )",
+      "code": "5212",
+      "type": "bank"
+    },
+    {
+      "name": "CBAO",
+      "code": "5213",
+      "type": "bank"
+    },
+    {
+      "name": "COMPTE FERME",
+      "code": "52100",
+      "type": "bank"
+    },
+    {
+      "name": "Clients",
+      "code": "4110",
+      "type": "accounts_receivable"
+    },
+    {
+      "name": "Immobilisations corporelles",
+      "code": "2200",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Matériel informatique",
+      "code": "2442",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Terrains",
+      "code": "2210",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Bâtiments",
+      "code": "2220",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Matériel & outillage",
+      "code": "2410",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Matériel de transport",
+      "code": "2450",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Mobilier de bureau",
+      "code": "2440",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Immobilisations incorporelles",
+      "code": "2100",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "logiciel",
+      "code": "2110",
+      "type": "fixed_asset"
+    },
+    {
+      "name": "Clients créditeurs / acomptes",
+      "code": "4190",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "TVA Collectée",
+      "code": "4451",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Personnel – rémunérations dues",
+      "code": "4220",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "TVA Due",
+      "code": "4454",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Produit reporté",
+      "code": "",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Ajustements du solde d’ouverture",
+      "code": "",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Remboursements des employés",
+      "code": "",
+      "type": "other_current_liability"
+    },
+    {
+      "name": "Fournisseurs",
+      "code": "4010",
+      "type": "accounts_payable"
+    },
+    {
+      "name": "Dettes de financement",
+      "code": "1500",
+      "type": "long_term_liability"
+    },
+    {
+      "name": "Emprunts auprès établissements",
+      "code": "1510",
+      "type": "long_term_liability"
+    },
+    {
+      "name": "Emprunts auprès des tiers",
+      "code": "1680",
+      "type": "long_term_liability"
+    },
+    {
+      "name": "Ajustements de dimension",
+      "code": "",
+      "type": "other_liability"
+    },
+    {
+      "name": "Primes liées au capital",
+      "code": "1030",
+      "type": "equity"
+    },
+    {
+      "name": "Réserve légale",
+      "code": "1061",
+      "type": "equity"
+    },
+    {
+      "name": "Réserve facultative",
+      "code": "1063",
+      "type": "equity"
+    },
+    {
+      "name": "Écart de réévaluation",
+      "code": "1040",
+      "type": "equity"
+    },
+    {
+      "name": "Réserve statutaire",
+      "code": "1062",
+      "type": "equity"
+    },
+    {
+      "name": "Provisions réglementées",
+      "code": "1400",
+      "type": "equity"
+    },
+    {
+      "name": "Subventions d’investissement",
+      "code": "1300",
+      "type": "equity"
+    },
+    {
+      "name": "Résultat courant",
+      "code": "1065",
+      "type": "equity"
+    },
+    {
+      "name": "Capital social",
+      "code": "1010",
+      "type": "equity"
+    },
+    {
+      "name": "Report à nouveau",
+      "code": "1064",
+      "type": "equity"
+    },
+    {
+      "name": "Capital social non amorti",
+      "code": "1011",
+      "type": "equity"
+    },
+    {
+      "name": "Capital amorti",
+      "code": "1012",
+      "type": "equity"
+    },
+    {
+      "name": "Apports en cours",
+      "code": "1020",
+      "type": "equity"
+    },
+    {
+      "name": "Commission sur Billet d'avion",
+      "code": "7070",
+      "type": "income"
+    },
+    {
+      "name": "Prestation de services",
+      "code": "7060",
+      "type": "income"
+    },
+    {
+      "name": "Accompagnement",
+      "code": "7062",
+      "type": "income"
+    },
+    {
+      "name": "Cours de langue",
+      "code": "7061",
+      "type": "income"
+    },
+    {
+      "name": "Ventes livres",
+      "code": "7010",
+      "type": "income"
+    },
+    {
+      "name": "Produits divers",
+      "code": "7080",
+      "type": "income"
+    },
+    {
+      "name": "Frais de port, perte d'emballage et autres frais facturés",
+      "code": "7071",
+      "type": "income"
+    },
+    {
+      "name": "Rémunération personnel extérieur",
+      "code": "6670",
+      "type": "expense"
+    },
+    {
+      "name": "Réception",
+      "code": "",
+      "type": "expense"
+    },
+    {
+      "name": "Frais de mission",
+      "code": "6384",
+      "type": "expense"
+    },
+    {
+      "name": "Réceptions",
+      "code": "6383",
+      "type": "expense"
+    },
+    {
+      "name": "Achat petit matériel et outillage",
+      "code": "6056",
+      "type": "expense"
+    },
+    {
+      "name": "Transports du personnel",
+      "code": "6140",
+      "type": "expense"
+    },
+    {
+      "name": "Assurances matériel de transport",
+      "code": "6252",
+      "type": "expense"
+    },
+    {
+      "name": "Autres frais de transport",
+      "code": "6180",
+      "type": "expense"
+    },
+    {
+      "name": "Locations & charges locatives",
+      "code": "62200",
+      "type": "expense"
+    },
+    {
+      "name": "Frais sur instruments monnaie électronique",
+      "code": "6317",
+      "type": "expense"
+    },
+    {
+      "name": "Entretien, réparations, maintenance",
+      "code": "6240",
+      "type": "expense"
+    },
+    {
+      "name": "Honoraire",
+      "code": "6324",
+      "type": "expense"
+    },
+    {
+      "name": "Assurances",
+      "code": "6250",
+      "type": "expense"
+    },
+    {
+      "name": "Location de materiels et outillages",
+      "code": "6223",
+      "type": "expense"
+    },
+    {
+      "name": "Locations et charges locatives diverses",
+      "code": "6228",
+      "type": "expense"
+    },
+    {
+      "name": "Fournitures de bureau",
+      "code": "6047",
+      "type": "expense"
+    },
+    {
+      "name": "Formations du personnel",
+      "code": "6333",
+      "type": "expense"
+    },
+    {
+      "name": "Publicité, publications, relations publiques",
+      "code": "6270",
+      "type": "expense"
+    },
+    {
+      "name": "Primes et gratifications",
+      "code": "66220",
+      "type": "expense"
+    },
+    {
+      "name": "Frais bancaires & commissions",
+      "code": "6310",
+      "type": "expense"
+    },
+    {
+      "name": "Redevances de logiciels",
+      "code": "6343",
+      "type": "expense"
+    },
+    {
+      "name": "Frais de Téléphone",
+      "code": "6280",
+      "type": "expense"
+    },
+    {
+      "name": "Droits d'enregistrement et de timbre",
+      "code": "6468",
+      "type": "expense"
+    },
+    {
+      "name": "Médecine et pharmacie du travail",
+      "code": "6684",
+      "type": "expense"
+    },
+    {
+      "name": "Services extérieurs",
+      "code": "6300",
+      "type": "expense"
+    },
+    {
+      "name": "Frais de télécommunications",
+      "code": "6281",
+      "type": "expense"
+    },
+    {
+      "name": "Fournitures non stockables - Eau",
+      "code": "6051",
+      "type": "expense"
+    },
+    {
+      "name": "Commissions & courtages",
+      "code": "6320",
+      "type": "expense"
+    },
+    {
+      "name": "Frais de recrutement",
+      "code": "6380",
+      "type": "expense"
+    },
+    {
+      "name": "Impôts & taxes",
+      "code": "6400",
+      "type": "expense"
+    },
+    {
+      "name": "Fournitures non stockables - Électricité",
+      "code": "6052",
+      "type": "expense"
+    },
+    {
+      "name": "Dotations aux amortissements",
+      "code": "6810",
+      "type": "expense"
+    },
+    {
+      "name": "Perte sur créances",
+      "code": "6510",
+      "type": "expense"
+    },
+    {
+      "name": "Achats d'études et prestations de services",
+      "code": "6057",
+      "type": "expense"
+    },
+    {
+      "name": "Fourniture non stockable / Autres energies",
+      "code": "6053",
+      "type": "expense"
+    },
+    {
+      "name": "Matieres consommables",
+      "code": "6041",
+      "type": "expense"
+    },
+    {
+      "name": "Autres charges diverses",
+      "code": "6588",
+      "type": "expense"
+    },
+    {
+      "name": "Appointement et Salaire",
+      "code": "6611",
+      "type": "expense"
+    },
+    {
+      "name": "Autres achats",
+      "code": "6058",
+      "type": "expense"
+    },
+    {
+      "name": "Fournitures d'entretien non stockables",
+      "code": "6054",
+      "type": "expense"
+    },
+    {
+      "name": "Achats des marchandises vendues",
+      "code": "6011",
+      "type": "cost_of_goods_sold"
+    },
+    {
+      "name": "Dons",
+      "code": "6582",
+      "type": "other_expense"
+    },
+    {
+      "name": "Achat de travaux, matériel et équipement",
+      "code": "6058",
+      "type": "other_expense"
+    },
+    {
+      "name": "Autres pénalités et amendes fiscales",
+      "code": "6478",
+      "type": "other_expense"
+    },
+    {
+      "name": "Stock livres",
+      "code": "3100",
+      "type": "stock"
+    },
+    {
+      "name": "Fournitures consommables",
+      "code": "3120",
+      "type": "stock"
+    }
+  ]
+}

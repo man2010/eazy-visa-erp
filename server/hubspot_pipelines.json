@@ -1,0 +1,70 @@
+[
+  {
+    "id": "default",
+    "label": "Pipeline des ventes",
+    "stages": [
+      {
+        "id": "appointmentscheduled",
+        "label": "Facture envoyée"
+      },
+      {
+        "id": "qualifiedtobuy",
+        "label": "  A1.1  payé "
+      },
+      {
+        "id": "presentationscheduled",
+        "label": "A1.2  payé "
+      },
+      {
+        "id": "decisionmakerboughtin",
+        "label": "  A2.1  payé "
+      },
+      {
+        "id": "contractsent",
+        "label": "A2.2  payé "
+      },
+      {
+        "id": "closedwon",
+        "label": "Fermé gagné"
+      },
+      {
+        "id": "closedlost",
+        "label": "Fermé perdu"
+      }
+    ]
+  },
+  {
+    "id": "702873524",
+    "label": "SuiviClients",
+    "stages": [
+      {
+        "id": "1026803361",
+        "label": "Rendez-vous planifié"
+      },
+      {
+        "id": "1026803362",
+        "label": "Qualifié pour acheter"
+      },
+      {
+        "id": "1026803363",
+        "label": "Présentation planifiée"
+      },
+      {
+        "id": "1026803364",
+        "label": "Décideur introduit"
+      },
+      {
+        "id": "1026803365",
+        "label": "Contrat envoyé"
+      },
+      {
+        "id": "1026803366",
+        "label": "Fermé gagné"
+      },
+      {
+        "id": "1026803367",
+        "label": "Fermé perdu"
+      }
+    ]
+  }
+]

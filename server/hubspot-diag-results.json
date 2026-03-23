@@ -1,0 +1,1071 @@
+{
+  "owners": [
+    {
+      "id": "76416644",
+      "email": "manirazinaidi99.ev@gmail.com",
+      "type": "PERSON",
+      "firstName": "Razina idi",
+      "lastName": "Mani",
+      "userId": 76416644,
+      "userIdIncludingInactive": 76416644,
+      "createdAt": "2025-01-17T12:00:25.276Z",
+      "updatedAt": "2026-01-24T08:52:26.586Z",
+      "archived": false
+    },
+    {
+      "id": "77010248",
+      "email": "mrketing.eazyvisa@gmail.com",
+      "type": "PERSON",
+      "firstName": "Ndèye Fatou",
+      "lastName": "Hann",
+      "userId": 77010248,
+      "userIdIncludingInactive": 77010248,
+      "createdAt": "2025-02-03T16:36:44.566Z",
+      "updatedAt": "2026-01-20T23:03:07.453Z",
+      "archived": false
+    },
+    {
+      "id": "78024859",
+      "email": "servicevente.eazyvisa@gmail.com",
+      "type": "PERSON",
+      "firstName": "Deborah",
+      "lastName": "Agbodjogbe",
+      "userId": 78024859,
+      "userIdIncludingInactive": 78024859,
+      "createdAt": "2025-03-03T13:45:20.146Z",
+      "updatedAt": "2026-01-22T10:20:29.505Z",
+      "archived": false
+    },
+    {
+      "id": "79297078",
+      "email": "eazyvisaassistante@gmail.com",
+      "type": "PERSON",
+      "firstName": "Khadijatou Kane",
+      "lastName": "Eazy-visa",
+      "userId": 79297078,
+      "userIdIncludingInactive": 79297078,
+      "createdAt": "2025-04-11T09:34:30.818Z",
+      "updatedAt": "2026-01-22T14:02:12.245Z",
+      "archived": false
+    },
+    {
+      "id": "81718149",
+      "email": "serviceclient.eazyvisa@gmail.com",
+      "type": "PERSON",
+      "firstName": "Gallo",
+      "lastName": "Diallo",
+      "userId": 81718149,
+      "userIdIncludingInactive": 81718149,
+      "createdAt": "2025-07-18T13:29:37.322Z",
+      "updatedAt": "2026-01-23T14:42:32.999Z",
+      "archived": false
+    },
+    {
+      "id": "81847053",
+      "email": "managereazyvisa.ev@gmail.com",
+      "type": "PERSON",
+      "firstName": "Manager",
+      "lastName": "Eazyvisa",
+      "userId": 81847053,
+      "userIdIncludingInactive": 81847053,
+      "createdAt": "2025-07-23T15:58:44.853Z",
+      "updatedAt": "2026-01-15T08:50:02.331Z",
+      "archived": false
+    },
+    {
+      "id": "83401387",
+      "email": "prestataire.eazyvisa@gmail.com",
+      "type": "PERSON",
+      "firstName": "Augustine",
+      "lastName": "Dibor",
+      "userId": 83401387,
+      "userIdIncludingInactive": 83401387,
+      "createdAt": "2025-09-17T13:02:38.537Z",
+      "updatedAt": "2025-10-26T19:44:37.152Z",
+      "archived": false
+    },
+    {
+      "id": "83701795",
+      "email": "prestataire1.eazyvisa@gmail.com",
+      "type": "PERSON",
+      "firstName": "IBRAHIMA",
+      "lastName": "CISEE",
+      "userId": 83701795,
+      "userIdIncludingInactive": 83701795,
+      "createdAt": "2025-09-30T14:12:12.704Z",
+      "updatedAt": "2026-01-22T10:08:30.950Z",
+      "archived": false
+    },
+    {
+      "id": "83701838",
+      "email": "prestataire2.eazyvisa@gmail.com",
+      "type": "PERSON",
+      "firstName": "katia",
+      "lastName": "Mboungou",
+      "userId": 83701838,
+      "userIdIncludingInactive": 83701838,
+      "createdAt": "2025-09-30T14:13:29.873Z",
+      "updatedAt": "2026-01-19T09:19:07.449Z",
+      "archived": false
+    },
+    {
+      "id": "84096650",
+      "email": "compta.eazyvisa@gmail.com",
+      "type": "PERSON",
+      "firstName": "Ahmadou",
+      "lastName": "Diouf",
+      "userId": 84096650,
+      "userIdIncludingInactive": 84096650,
+      "createdAt": "2025-10-15T13:47:36.440Z",
+      "updatedAt": "2026-01-24T08:16:15.034Z",
+      "archived": false
+    },
+    {
+      "id": "84435697",
+      "email": "eazyvisa.agent1@gmail.com",
+      "type": "PERSON",
+      "firstName": "Momar",
+      "lastName": "diallo",
+      "userId": 84435697,
+      "userIdIncludingInactive": 84435697,
+      "createdAt": "2025-10-25T11:54:43.754Z",
+      "updatedAt": "2025-11-04T08:18:35.693Z",
+      "archived": false
+    },
+    {
+      "id": "84435703",
+      "email": "eazyvisa.agent2@gmail.com",
+      "type": "PERSON",
+      "firstName": "REGINE",
+      "lastName": "NYOBE NGONO",
+      "userId": 84435703,
+      "userIdIncludingInactive": 84435703,
+      "createdAt": "2025-10-25T11:55:17.775Z",
+      "updatedAt": "2025-10-27T11:20:32.142Z",
+      "archived": false
+    },
+    {
+      "id": "84435714",
+      "email": "eazyvisa.agent3@gmail.com",
+      "type": "PERSON",
+      "firstName": "Agent 3",
+      "lastName": "ndiaye",
+      "userId": 84435714,
+      "userIdIncludingInactive": 84435714,
+      "createdAt": "2025-10-25T11:56:06.323Z",
+      "updatedAt": "2025-12-16T13:18:48.271Z",
+      "archived": false
+    },
+    {
+      "id": "84607222",
+      "email": "developpeurit.eazyvisa@gmail.com",
+      "type": "PERSON",
+      "firstName": "Développeur",
+      "lastName": "It",
+      "userId": 84607222,
+      "userIdIncludingInactive": 84607222,
+      "createdAt": "2025-10-30T09:36:00.489Z",
+      "updatedAt": "2025-10-31T07:12:07.345Z",
+      "archived": false
+    },
+    {
+      "id": "84657567",
+      "email": "servicecommercial.eazyvisa@gmail.com",
+      "type": "PERSON",
+      "firstName": "Mouhamed Pam",
+      "lastName": "Eazyvisa",
+      "userId": 84657567,
+      "userIdIncludingInactive": 84657567,
+      "createdAt": "2025-10-31T16:40:10.864Z",
+      "updatedAt": "2026-01-21T09:45:46.469Z",
+      "archived": false
+    },
+    {
+      "id": "84657618",
+      "email": "serviceclients1.eazyvisa@gmail.com",
+      "type": "PERSON",
+      "firstName": "Sophie",
+      "lastName": "Ndiaye",
+      "userId": 84657618,
+      "userIdIncludingInactive": 84657618,
+      "createdAt": "2025-10-31T16:42:08.447Z",
+      "updatedAt": "2026-01-21T09:36:50.390Z",
+      "archived": false
+    },
+    {
+      "id": "85033267",
+      "email": "commercial.eazyvisa@gmail.com",
+      "type": "PERSON",
+      "firstName": "Oumou Kantome",
+      "lastName": "FALL",
+      "userId": 85033267,
+      "userIdIncludingInactive": 85033267,
+      "createdAt": "2025-11-11T11:30:03.698Z",
+      "updatedAt": "2026-01-23T15:19:55.430Z",
+      "archived": false
+    },
+    {
+      "id": "85467909",
+      "email": "chargervisa.eazyvisa1@gmail.com",
+      "type": "PERSON",
+      "firstName": "Charger",
+      "lastName": "Visa",
+      "userId": 85467909,
+      "userIdIncludingInactive": 85467909,
+      "createdAt": "2025-11-22T11:26:00.687Z",
+      "updatedAt": "2026-01-24T08:02:50.525Z",
+      "archived": false
+    },
+    {
+      "id": "85468277",
+      "email": "communitymanager.eazyvisa@gmail.com",
+      "type": "PERSON",
+      "firstName": "Yandé Binta M.",
+      "lastName": "NDIAYE",
+      "userId": 85468277,
+      "userIdIncludingInactive": 85468277,
+      "createdAt": "2025-11-22T11:49:07.163Z",
+      "updatedAt": "2025-12-05T17:11:09.649Z",
+      "archived": false
+    },
+    {
+      "id": "86495782",
+      "email": "commercialfatou.eazyvisa@gmail.com",
+      "type": "PERSON",
+      "firstName": "Fatou Julie",
+      "lastName": "Cissé",
+      "userId": 86495782,
+      "userIdIncludingInactive": 86495782,
+      "createdAt": "2025-12-23T10:26:30.038Z",
+      "updatedAt": "2026-01-22T17:42:03.786Z",
+      "archived": false
+    },
+    {
+      "id": "499969438",
+      "email": "diallomoudjitaba9@gmail.com",
+      "type": "PERSON",
+      "firstName": "Mohamed Moudjtaba",
+      "lastName": "Diallo",
+      "userId": 57822630,
+      "userIdIncludingInactive": 57822630,
+      "createdAt": "2023-08-11T08:25:25.241Z",
+      "updatedAt": "2026-01-15T08:16:01.567Z",
+      "archived": false
+    },
+    {
+      "id": "603456025",
+      "email": "eazyvisa500@gmail.com",
+      "type": "PERSON",
+      "firstName": "Eazy",
+      "lastName": "Visa",
+      "userId": 61712542,
+      "userIdIncludingInactive": 61712542,
+      "createdAt": "2023-11-08T18:50:54.152Z",
+      "updatedAt": "2025-10-24T15:36:56.661Z",
+      "archived": false
+    }
+  ],
+  "deals": [
+    {
+      "id": "14631867684",
+      "properties": {
+        "createdate": "2023-08-15T13:05:07.944Z",
+        "dealname": "Quick deal - 💎",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-03-17T17:10:51.914Z",
+        "hs_object_id": "14631867684",
+        "hubspot_owner_id": "76375755"
+      },
+      "createdAt": "2023-08-15T13:05:07.944Z",
+      "updatedAt": "2025-03-17T17:10:51.914Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/14631867684"
+    },
+    {
+      "id": "14632776322",
+      "properties": {
+        "createdate": "2023-08-15T15:27:43.295Z",
+        "dealname": "Quick deal - ndiayealpha89",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-19T10:24:39.753Z",
+        "hs_object_id": "14632776322",
+        "hubspot_owner_id": "499904949"
+      },
+      "createdAt": "2023-08-15T15:27:43.295Z",
+      "updatedAt": "2025-02-19T10:24:39.753Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/14632776322"
+    },
+    {
+      "id": "14637081457",
+      "properties": {
+        "createdate": "2023-08-15T20:38:57.001Z",
+        "dealname": "Quick deal - Mohamed Diallo",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-19T10:24:39.564Z",
+        "hs_object_id": "14637081457",
+        "hubspot_owner_id": "500463738"
+      },
+      "createdAt": "2023-08-15T20:38:57.001Z",
+      "updatedAt": "2025-02-19T10:24:39.564Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/14637081457"
+    },
+    {
+      "id": "14637618734",
+      "properties": {
+        "createdate": "2023-08-15T20:38:57.296Z",
+        "dealname": "Quick deal - Mohamed Diallo",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-19T10:24:39.653Z",
+        "hs_object_id": "14637618734",
+        "hubspot_owner_id": "500463738"
+      },
+      "createdAt": "2023-08-15T20:38:57.296Z",
+      "updatedAt": "2025-02-19T10:24:39.653Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/14637618734"
+    },
+    {
+      "id": "14655559796",
+      "properties": {
+        "createdate": "2023-08-16T17:09:45.510Z",
+        "dealname": "Quick deal - Inconnu",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-03-17T17:10:51.914Z",
+        "hs_object_id": "14655559796",
+        "hubspot_owner_id": "76375755"
+      },
+      "createdAt": "2023-08-16T17:09:45.510Z",
+      "updatedAt": "2025-03-17T17:10:51.914Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/14655559796"
+    },
+    {
+      "id": "14708023208",
+      "properties": {
+        "createdate": "2023-08-17T16:02:03.722Z",
+        "dealname": "Quick deal - Aminata SENE Thioune😍",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:12:28.144Z",
+        "hs_object_id": "14708023208",
+        "hubspot_owner_id": "499904949"
+      },
+      "createdAt": "2023-08-17T16:02:03.722Z",
+      "updatedAt": "2025-02-28T16:12:28.144Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/14708023208"
+    },
+    {
+      "id": "15797485424",
+      "properties": {
+        "createdate": "2023-10-26T15:19:53.159Z",
+        "dealname": "Samba Tounkara - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:12:28.920Z",
+        "hs_object_id": "15797485424",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-26T15:19:53.159Z",
+      "updatedAt": "2025-02-28T16:12:28.920Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15797485424"
+    },
+    {
+      "id": "15797181255",
+      "properties": {
+        "createdate": "2023-10-26T15:20:16.016Z",
+        "dealname": "Ismaila Paraya Bah - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:12:31.162Z",
+        "hs_object_id": "15797181255",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-26T15:20:16.016Z",
+      "updatedAt": "2025-02-28T16:12:31.162Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15797181255"
+    },
+    {
+      "id": "15797485601",
+      "properties": {
+        "createdate": "2023-10-26T15:20:43.170Z",
+        "dealname": "Cire DIAW - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-12-31T13:29:48.756Z",
+        "hs_object_id": "15797485601",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-26T15:20:43.170Z",
+      "updatedAt": "2025-12-31T13:29:48.756Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15797485601"
+    },
+    {
+      "id": "15797181366",
+      "properties": {
+        "createdate": "2023-10-26T15:21:03.742Z",
+        "dealname": "Mohamed Housnati - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-03-05T06:34:20.995Z",
+        "hs_object_id": "15797181366",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-26T15:21:03.742Z",
+      "updatedAt": "2025-03-05T06:34:20.995Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15797181366"
+    },
+    {
+      "id": "15797485693",
+      "properties": {
+        "createdate": "2023-10-26T15:21:23.777Z",
+        "dealname": "Nicolas Émile SENGHOR - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:25:51.020Z",
+        "hs_object_id": "15797485693",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-26T15:21:23.777Z",
+      "updatedAt": "2025-02-28T16:25:51.020Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15797485693"
+    },
+    {
+      "id": "15797485742",
+      "properties": {
+        "createdate": "2023-10-26T15:21:41.501Z",
+        "dealname": "Thierno cheikou Ba - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-11-02T16:01:15.894Z",
+        "hs_object_id": "15797485742",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-26T15:21:41.501Z",
+      "updatedAt": "2025-11-02T16:01:15.894Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15797485742"
+    },
+    {
+      "id": "15797183629",
+      "properties": {
+        "createdate": "2023-10-26T15:33:07.480Z",
+        "dealname": "Babacar Cisse - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:12:13.735Z",
+        "hs_object_id": "15797183629",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-26T15:33:07.480Z",
+      "updatedAt": "2025-02-28T16:12:13.735Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15797183629"
+    },
+    {
+      "id": "15797632369",
+      "properties": {
+        "createdate": "2023-10-26T15:42:13.393Z",
+        "dealname": "Essayons Mouithyt ignoumba - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-10-21T20:35:48.851Z",
+        "hs_object_id": "15797632369",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-26T15:42:13.393Z",
+      "updatedAt": "2025-10-21T20:35:48.851Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15797632369"
+    },
+    {
+      "id": "15798545961",
+      "properties": {
+        "createdate": "2023-10-26T18:27:48.847Z",
+        "dealname": "Ndèye Aïssatou Sarr - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-03-10T08:00:40.196Z",
+        "hs_object_id": "15798545961",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-26T18:27:48.847Z",
+      "updatedAt": "2025-03-10T08:00:40.196Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15798545961"
+    },
+    {
+      "id": "15799540566",
+      "properties": {
+        "createdate": "2023-10-26T18:50:00.529Z",
+        "dealname": "Meda Mopila - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:25:43.914Z",
+        "hs_object_id": "15799540566",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-26T18:50:00.529Z",
+      "updatedAt": "2025-02-28T16:25:43.914Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15799540566"
+    },
+    {
+      "id": "15799744863",
+      "properties": {
+        "createdate": "2023-10-26T19:12:29.576Z",
+        "dealname": "Seydou FALL - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:12:25.978Z",
+        "hs_object_id": "15799744863",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-26T19:12:29.576Z",
+      "updatedAt": "2025-02-28T16:12:25.978Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15799744863"
+    },
+    {
+      "id": "15810281599",
+      "properties": {
+        "createdate": "2023-10-27T11:47:44.985Z",
+        "dealname": "Mouhamed Kanté - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:12:21.416Z",
+        "hs_object_id": "15810281599",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-27T11:47:44.985Z",
+      "updatedAt": "2025-02-28T16:12:21.416Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15810281599"
+    },
+    {
+      "id": "15810484019",
+      "properties": {
+        "createdate": "2023-10-27T11:59:56.742Z",
+        "dealname": "Fatou Medoune Diaw - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-08-22T17:17:52.425Z",
+        "hs_object_id": "15810484019",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-27T11:59:56.742Z",
+      "updatedAt": "2025-08-22T17:17:52.425Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15810484019"
+    },
+    {
+      "id": "15810484600",
+      "properties": {
+        "createdate": "2023-10-27T12:07:12.893Z",
+        "dealname": "Adolphe Mendy - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-09-18T21:04:12.065Z",
+        "hs_object_id": "15810484600",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-27T12:07:12.893Z",
+      "updatedAt": "2025-09-18T21:04:12.065Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15810484600"
+    },
+    {
+      "id": "15810551223",
+      "properties": {
+        "createdate": "2023-10-27T12:39:38.428Z",
+        "dealname": "Dongo Salim - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-03-04T11:56:48.486Z",
+        "hs_object_id": "15810551223",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-27T12:39:38.428Z",
+      "updatedAt": "2025-03-04T11:56:48.486Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15810551223"
+    },
+    {
+      "id": "15813364740",
+      "properties": {
+        "createdate": "2023-10-27T16:28:36.072Z",
+        "dealname": "Abdoulaye Diallo - Nouvelle transaction",
+        "hs_is_closed": "true",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-11-28T14:54:25.986Z",
+        "hs_object_id": "15813364740",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-27T16:28:36.072Z",
+      "updatedAt": "2025-11-28T14:54:25.986Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15813364740"
+    },
+    {
+      "id": "15813730460",
+      "properties": {
+        "createdate": "2023-10-27T16:42:28.242Z",
+        "dealname": "Institut Panafricain de formation Santé - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-19T10:24:39.594Z",
+        "hs_object_id": "15813730460",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-27T16:42:28.242Z",
+      "updatedAt": "2025-02-19T10:24:39.594Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15813730460"
+    },
+    {
+      "id": "15815451923",
+      "properties": {
+        "createdate": "2023-10-27T19:52:28.430Z",
+        "dealname": "Cellia Mavoungou - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-12-02T18:03:08.427Z",
+        "hs_object_id": "15815451923",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-27T19:52:28.430Z",
+      "updatedAt": "2025-12-02T18:03:08.427Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15815451923"
+    },
+    {
+      "id": "15815453305",
+      "properties": {
+        "createdate": "2023-10-27T20:05:11.971Z",
+        "dealname": "Mame Fatou GUEYE - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:12:24.201Z",
+        "hs_object_id": "15815453305",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-27T20:05:11.971Z",
+      "updatedAt": "2025-02-28T16:12:24.201Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15815453305"
+    },
+    {
+      "id": "15815749799",
+      "properties": {
+        "createdate": "2023-10-27T20:43:51.517Z",
+        "dealname": "Cherif Diarra - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-03-04T19:12:03.714Z",
+        "hs_object_id": "15815749799",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-27T20:43:51.517Z",
+      "updatedAt": "2025-03-04T19:12:03.714Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15815749799"
+    },
+    {
+      "id": "15815858836",
+      "properties": {
+        "createdate": "2023-10-27T20:57:01.569Z",
+        "dealname": "Mamadou Issa DIALLO - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:12:21.014Z",
+        "hs_object_id": "15815858836",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-27T20:57:01.569Z",
+      "updatedAt": "2025-02-28T16:12:21.014Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15815858836"
+    },
+    {
+      "id": "15815859558",
+      "properties": {
+        "createdate": "2023-10-27T21:04:32.925Z",
+        "dealname": "Saliou Diakhaté - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:12:21.021Z",
+        "hs_object_id": "15815859558",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-27T21:04:32.925Z",
+      "updatedAt": "2025-02-28T16:12:21.021Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15815859558"
+    },
+    {
+      "id": "15817548469",
+      "properties": {
+        "createdate": "2023-10-28T11:15:29.639Z",
+        "dealname": "Maye Sakhanokho - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:12:22.023Z",
+        "hs_object_id": "15817548469",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-28T11:15:29.639Z",
+      "updatedAt": "2025-02-28T16:12:22.023Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15817548469"
+    },
+    {
+      "id": "15823316016",
+      "properties": {
+        "createdate": "2023-10-28T11:20:43.361Z",
+        "dealname": "Al Ousseynou Dembel Ba - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T15:34:15.807Z",
+        "hs_object_id": "15823316016",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-28T11:20:43.361Z",
+      "updatedAt": "2025-02-28T15:34:15.807Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15823316016"
+    },
+    {
+      "id": "15823582732",
+      "properties": {
+        "createdate": "2023-10-28T11:30:59.949Z",
+        "dealname": "Mouhamed Deme - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-12-27T10:46:57.814Z",
+        "hs_object_id": "15823582732",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-28T11:30:59.949Z",
+      "updatedAt": "2025-12-27T10:46:57.814Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15823582732"
+    },
+    {
+      "id": "15823582827",
+      "properties": {
+        "createdate": "2023-10-28T11:41:07.021Z",
+        "dealname": "Siléye Ba - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-06-19T09:39:13.739Z",
+        "hs_object_id": "15823582827",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-28T11:41:07.021Z",
+      "updatedAt": "2025-06-19T09:39:13.739Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15823582827"
+    },
+    {
+      "id": "15823582989",
+      "properties": {
+        "createdate": "2023-10-28T11:52:48.887Z",
+        "dealname": "Boubacar Baldé ",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:12:13.424Z",
+        "hs_object_id": "15823582989",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-28T11:52:48.887Z",
+      "updatedAt": "2025-02-28T16:12:13.424Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15823582989"
+    },
+    {
+      "id": "15824225149",
+      "properties": {
+        "createdate": "2023-10-28T13:30:16.463Z",
+        "dealname": "Hamza Kane - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:12:20.944Z",
+        "hs_object_id": "15824225149",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-28T13:30:16.463Z",
+      "updatedAt": "2025-02-28T16:12:20.944Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15824225149"
+    },
+    {
+      "id": "15843994480",
+      "properties": {
+        "createdate": "2023-10-30T12:45:02.600Z",
+        "dealname": "Serigne Modou Mbow - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2026-01-08T15:02:39.562Z",
+        "hs_object_id": "15843994480",
+        "hubspot_owner_id": "499969438"
+      },
+      "createdAt": "2023-10-30T12:45:02.600Z",
+      "updatedAt": "2026-01-08T15:02:39.562Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15843994480"
+    },
+    {
+      "id": "15908218261",
+      "properties": {
+        "createdate": "2023-11-03T13:48:12.486Z",
+        "dealname": "Djimata Olive Sina - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:12:16.037Z",
+        "hs_object_id": "15908218261",
+        "hubspot_owner_id": "511019677"
+      },
+      "createdAt": "2023-11-03T13:48:12.486Z",
+      "updatedAt": "2025-02-28T16:12:16.037Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15908218261"
+    },
+    {
+      "id": "15908234405",
+      "properties": {
+        "createdate": "2023-11-03T13:51:42.122Z",
+        "dealname": "Abdallah Diagne - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:12:18.412Z",
+        "hs_object_id": "15908234405",
+        "hubspot_owner_id": "511019677"
+      },
+      "createdAt": "2023-11-03T13:51:42.122Z",
+      "updatedAt": "2025-02-28T16:12:18.412Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15908234405"
+    },
+    {
+      "id": "15908234604",
+      "properties": {
+        "createdate": "2023-11-03T13:53:17.290Z",
+        "dealname": "Amadou Ba - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:12:26.737Z",
+        "hs_object_id": "15908234604",
+        "hubspot_owner_id": "511019677"
+      },
+      "createdAt": "2023-11-03T13:53:17.290Z",
+      "updatedAt": "2025-02-28T16:12:26.737Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15908234604"
+    },
+    {
+      "id": "15908219255",
+      "properties": {
+        "createdate": "2023-11-03T13:54:29.287Z",
+        "dealname": "Cheikh mbacke Dieng - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-10-31T19:05:21.523Z",
+        "hs_object_id": "15908219255",
+        "hubspot_owner_id": "511019677"
+      },
+      "createdAt": "2023-11-03T13:54:29.287Z",
+      "updatedAt": "2025-10-31T19:05:21.523Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15908219255"
+    },
+    {
+      "id": "15907989634",
+      "properties": {
+        "createdate": "2023-11-03T14:12:18.381Z",
+        "dealname": "Thierno Lamine Diallo - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:12:30.873Z",
+        "hs_object_id": "15907989634",
+        "hubspot_owner_id": "511019677"
+      },
+      "createdAt": "2023-11-03T14:12:18.381Z",
+      "updatedAt": "2025-02-28T16:12:30.873Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15907989634"
+    },
+    {
+      "id": "15912233065",
+      "properties": {
+        "createdate": "2023-11-03T19:20:56.582Z",
+        "dealname": "Babacar Ahmad Thiaw - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-03-04T23:01:40.379Z",
+        "hs_object_id": "15912233065",
+        "hubspot_owner_id": "511019677"
+      },
+      "createdAt": "2023-11-03T19:20:56.582Z",
+      "updatedAt": "2025-03-04T23:01:40.379Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15912233065"
+    },
+    {
+      "id": "15919036551",
+      "properties": {
+        "createdate": "2023-11-04T12:51:38.612Z",
+        "dealname": "Maïmouna Sy - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-03-19T14:43:26.679Z",
+        "hs_object_id": "15919036551",
+        "hubspot_owner_id": "511019677"
+      },
+      "createdAt": "2023-11-04T12:51:38.612Z",
+      "updatedAt": "2025-03-19T14:43:26.679Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15919036551"
+    },
+    {
+      "id": "15926912924",
+      "properties": {
+        "createdate": "2023-11-05T11:30:58.371Z",
+        "dealname": "Junior Ndinga - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:28:05.505Z",
+        "hs_object_id": "15926912924",
+        "hubspot_owner_id": "511019677"
+      },
+      "createdAt": "2023-11-05T11:30:58.371Z",
+      "updatedAt": "2025-02-28T16:28:05.505Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15926912924"
+    },
+    {
+      "id": "15951383649",
+      "properties": {
+        "createdate": "2023-11-07T09:19:00.366Z",
+        "dealname": "Mouhamed Deme - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-19T10:24:39.545Z",
+        "hs_object_id": "15951383649",
+        "hubspot_owner_id": "567133033"
+      },
+      "createdAt": "2023-11-07T09:19:00.366Z",
+      "updatedAt": "2025-02-19T10:24:39.545Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15951383649"
+    },
+    {
+      "id": "15968817500",
+      "properties": {
+        "createdate": "2023-11-08T12:21:24.485Z",
+        "dealname": "Khady Sow - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2026-01-06T21:47:10.053Z",
+        "hs_object_id": "15968817500",
+        "hubspot_owner_id": "511019677"
+      },
+      "createdAt": "2023-11-08T12:21:24.485Z",
+      "updatedAt": "2026-01-06T21:47:10.053Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/15968817500"
+    },
+    {
+      "id": "16002964065",
+      "properties": {
+        "createdate": "2023-11-10T14:06:43.041Z",
+        "dealname": "Kama Assane - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-09-16T19:13:14.409Z",
+        "hs_object_id": "16002964065",
+        "hubspot_owner_id": "511019677"
+      },
+      "createdAt": "2023-11-10T14:06:43.041Z",
+      "updatedAt": "2025-09-16T19:13:14.409Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/16002964065"
+    },
+    {
+      "id": "16004242523",
+      "properties": {
+        "createdate": "2023-11-10T16:51:19.103Z",
+        "dealname": "Kadidiatou Sambakhé - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-12-07T21:58:09.247Z",
+        "hs_object_id": "16004242523",
+        "hubspot_owner_id": "567133033"
+      },
+      "createdAt": "2023-11-10T16:51:19.103Z",
+      "updatedAt": "2025-12-07T21:58:09.247Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/16004242523"
+    },
+    {
+      "id": "16038053746",
+      "properties": {
+        "createdate": "2023-11-13T12:44:52.855Z",
+        "dealname": "Mamadou Bailo Sall - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:12:21.416Z",
+        "hs_object_id": "16038053746",
+        "hubspot_owner_id": "511019677"
+      },
+      "createdAt": "2023-11-13T12:44:52.855Z",
+      "updatedAt": "2025-02-28T16:12:21.416Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/16038053746"
+    },
+    {
+      "id": "16055744587",
+      "properties": {
+        "createdate": "2023-11-14T16:14:44.882Z",
+        "dealname": "Ousmane Boiro - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:12:23.757Z",
+        "hs_object_id": "16055744587",
+        "hubspot_owner_id": "511019677"
+      },
+      "createdAt": "2023-11-14T16:14:44.882Z",
+      "updatedAt": "2025-02-28T16:12:23.757Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/16055744587"
+    },
+    {
+      "id": "16079992500",
+      "properties": {
+        "createdate": "2023-11-16T01:35:44.641Z",
+        "dealname": "Alioune Fall - Nouvelle transaction",
+        "hs_is_closed": "false",
+        "hs_is_closed_won": "false",
+        "hs_lastmodifieddate": "2025-02-28T16:12:15.212Z",
+        "hs_object_id": "16079992500",
+        "hubspot_owner_id": "511019677"
+      },
+      "createdAt": "2023-11-16T01:35:44.641Z",
+      "updatedAt": "2025-02-28T16:12:15.212Z",
+      "archived": false,
+      "url": "https://app.hubspot.com/contacts/43538067/record/0-3/16079992500"
+    }
+  ],
+  "errors": []
+}

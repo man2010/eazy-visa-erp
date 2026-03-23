@@ -1,0 +1,125 @@
+{
+  "success": true,
+  "data": {
+    "summary": {
+      "totalRevenue": 124423500,
+      "totalCharges": 27301019,
+      "netProfit": 97122481,
+      "grossMargin": 122934250,
+      "revenueByService": {
+        "Livres (7010)": 0,
+        "Visa (7062)": 0,
+        "Langue (7061)": 0,
+        "Billetterie (7070)": 0,
+        "Autres": 123547459
+      },
+      "chargesByNature": {
+        "Loyer (6220)": 25000,
+        "Salaires (4220)": 0,
+        "Fournitures (6047/54)": 640500,
+        "Autres": 26635519
+      }
+    },
+    "liquidity": {
+      "totalCash": 50151834,
+      "cashAccounts": [
+        {
+          "name": "Caisse",
+          "balance": 13004023,
+          "code": "571"
+        },
+        {
+          "name": "Caisse 1",
+          "balance": 4273667,
+          "code": "5712"
+        },
+        {
+          "name": "Caisse 2",
+          "balance": 12890000,
+          "code": "5713"
+        },
+        {
+          "name": "Monnaie électroniqu OM",
+          "balance": 95894,
+          "code": "5522"
+        },
+        {
+          "name": "Monnaie électronique",
+          "balance": 406450,
+          "code": "552"
+        },
+        {
+          "name": "Monnaie électronique WAVE",
+          "balance": 8669011,
+          "code": "5521"
+        },
+        {
+          "name": "Petite Caisse",
+          "balance": 129050,
+          "code": "5711"
+        },
+        {
+          "name": "Banque BIS",
+          "balance": -856784,
+          "code": "5213"
+        },
+        {
+          "name": "Banque CMS",
+          "balance": 10618234,
+          "code": "5212"
+        },
+        {
+          "name": "CBAO",
+          "balance": 516190,
+          "code": "5210000"
+        },
+        {
+          "name": "Wise",
+          "balance": 406099,
+          "code": "5214"
+        }
+      ]
+    },
+    "agingReceivables": [
+      {
+        "range_name": "0-30",
+        "amount": 7468000
+      },
+      {
+        "range_name": "31-60",
+        "amount": 11547000
+      },
+      {
+        "range_name": "61-90",
+        "amount": 732000
+      },
+      {
+        "range_name": "90+",
+        "amount": 6699725
+      }
+    ],
+    "agingPayables": [
+      {
+        "range_name": "0-30",
+        "amount": 0
+      },
+      {
+        "range_name": "31-60",
+        "amount": 0
+      },
+      {
+        "range_name": "61-90",
+        "amount": 0
+      },
+      {
+        "range_name": "90+",
+        "amount": 0
+      }
+    ],
+    "period": {
+      "from": "2023-01-01",
+      "to": "2026-12-31"
+    },
+    "currency": "XOF"
+  }
+}

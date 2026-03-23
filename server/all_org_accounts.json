@@ -1,0 +1,468 @@
+{
+  "854518157": [
+    {
+      "name": "Ventes",
+      "amount": 7855450,
+      "code": ""
+    }
+  ],
+  "873088744": [
+    {
+      "name": "Commission",
+      "amount": 160300,
+      "code": "7072"
+    },
+    {
+      "name": "Rabais, remises, ristournes obtenue",
+      "amount": -2409550,
+      "code": "7069"
+    },
+    {
+      "name": "Ventes",
+      "amount": 133012500,
+      "code": "70"
+    },
+    {
+      "name": "Achat de livres",
+      "amount": 420000,
+      "code": "601"
+    },
+    {
+      "name": "Abonnement logiciels",
+      "amount": 190264,
+      "code": "6171"
+    },
+    {
+      "name": "Achat d'etude et de prestation services",
+      "amount": 160000,
+      "code": "605700"
+    },
+    {
+      "name": "Achats de travaux , materiels et équipement",
+      "amount": 380700,
+      "code": "6058"
+    },
+    {
+      "name": "Assurance Multirisque",
+      "amount": 50000,
+      "code": "625100"
+    },
+    {
+      "name": "Autres frais",
+      "amount": 119470,
+      "code": "605"
+    },
+    {
+      "name": "Autres frais de transport",
+      "amount": 436850,
+      "code": "618"
+    },
+    {
+      "name": "Autres services exterieures",
+      "amount": 745500,
+      "code": "63"
+    },
+    {
+      "name": "Commissions et courtages",
+      "amount": 1248400,
+      "code": "6322"
+    },
+    {
+      "name": "Consommables / Impression",
+      "amount": 309904,
+      "code": "6011"
+    },
+    {
+      "name": "Créances irrécouvrables",
+      "amount": 641000,
+      "code": ""
+    },
+    {
+      "name": "Dépenses de cuisine",
+      "amount": 207347,
+      "code": "6055"
+    },
+    {
+      "name": "Dépenses informatiques et d’Internet",
+      "amount": 15000,
+      "code": ""
+    },
+    {
+      "name": "Déplacement personnel",
+      "amount": 60400,
+      "code": ""
+    },
+    {
+      "name": "Eau",
+      "amount": 12819,
+      "code": ""
+    },
+    {
+      "name": "Electricité",
+      "amount": 609000,
+      "code": ""
+    },
+    {
+      "name": "Fourniture non stockable / Autres energies",
+      "amount": 15000,
+      "code": "6053"
+    },
+    {
+      "name": "Fourniture non stockables - Eau",
+      "amount": 13200,
+      "code": "6051"
+    },
+    {
+      "name": "Fournitures et équipement bureau",
+      "amount": 640500,
+      "code": "6047"
+    },
+    {
+      "name": "Fournitures non stockables - Électricité",
+      "amount": 348600,
+      "code": "6052"
+    },
+    {
+      "name": "Frais bancaires et charges",
+      "amount": 85611,
+      "code": "631"
+    },
+    {
+      "name": "frais de livraison",
+      "amount": 23000,
+      "code": ""
+    },
+    {
+      "name": "Frais de recrutement du personnel",
+      "amount": 20000,
+      "code": "6381"
+    },
+    {
+      "name": "Frais de télécommunications",
+      "amount": 376220,
+      "code": "628"
+    },
+    {
+      "name": "Frais de télécopie",
+      "amount": 37475,
+      "code": "6283"
+    },
+    {
+      "name": "Frais de téléphone",
+      "amount": 616860,
+      "code": "6281"
+    },
+    {
+      "name": "frais de transfert",
+      "amount": 500,
+      "code": ""
+    },
+    {
+      "name": "Frais sur instrument ùonnaie elctronique",
+      "amount": 46865,
+      "code": "6317"
+    },
+    {
+      "name": "Honoraires / frais judiciaires",
+      "amount": 35000,
+      "code": "6227"
+    },
+    {
+      "name": "Location de materiels et outillages",
+      "amount": 52500,
+      "code": "6223"
+    },
+    {
+      "name": "Locations et charges locatives diverses",
+      "amount": 393500,
+      "code": "6228"
+    },
+    {
+      "name": "Locations, charges locatives",
+      "amount": 5424000,
+      "code": "622"
+    },
+    {
+      "name": "Logiciel",
+      "amount": 534016,
+      "code": "2131"
+    },
+    {
+      "name": "Logiciel et Internet",
+      "amount": 222040,
+      "code": "2193"
+    },
+    {
+      "name": "Petit matériel et outillage",
+      "amount": 618500,
+      "code": "6056"
+    },
+    {
+      "name": "Primes et gratifications",
+      "amount": 25000,
+      "code": "662200"
+    },
+    {
+      "name": "Produits d'hygiene",
+      "amount": 195209,
+      "code": "6054"
+    },
+    {
+      "name": "Publicité, publications, relations publiques",
+      "amount": 2557045,
+      "code": "627"
+    },
+    {
+      "name": "Réceptions",
+      "amount": 51310,
+      "code": "6383"
+    },
+    {
+      "name": "Rémunération transférée de personnel extérieur",
+      "amount": 4187100,
+      "code": "667"
+    },
+    {
+      "name": "Réparations et entretien",
+      "amount": 74000,
+      "code": ""
+    },
+    {
+      "name": "Salaires et rémunération des employés",
+      "amount": 6864918,
+      "code": "422"
+    },
+    {
+      "name": "Service extérieur",
+      "amount": 457000,
+      "code": "62"
+    },
+    {
+      "name": "Services exterieures ponctuelles",
+      "amount": 17000,
+      "code": ""
+    },
+    {
+      "name": "Transports du personnel",
+      "amount": 66000,
+      "code": "614"
+    },
+    {
+      "name": "Wifi",
+      "amount": 159200,
+      "code": ""
+    }
+  ],
+  "910367975": [
+    {
+      "name": "Accompagnement",
+      "amount": 80204000,
+      "code": "7062"
+    },
+    {
+      "name": "Commission sur Billet d'avion",
+      "amount": 93100,
+      "code": "7070"
+    },
+    {
+      "name": "Cours de langue",
+      "amount": 44272500,
+      "code": "7061"
+    },
+    {
+      "name": "Ventes livres",
+      "amount": 1016000,
+      "code": "7010"
+    },
+    {
+      "name": "Achats des marchandises vendues",
+      "amount": 420000,
+      "code": "6011"
+    },
+    {
+      "name": "Achat petit matériel et outillage",
+      "amount": 852755,
+      "code": "6056"
+    },
+    {
+      "name": "Achats études et prestations de services",
+      "amount": 160000,
+      "code": "6057"
+    },
+    {
+      "name": "Appointement et Salaire",
+      "amount": 24635240,
+      "code": "6611"
+    },
+    {
+      "name": "Assurances matériel de transport",
+      "amount": 15500,
+      "code": "6252"
+    },
+    {
+      "name": "Autres achats",
+      "amount": 20000,
+      "code": "6050"
+    },
+    {
+      "name": "Autres charges diverses",
+      "amount": 17500,
+      "code": "6588"
+    },
+    {
+      "name": "Autres frais de transport",
+      "amount": 318780,
+      "code": "6180"
+    },
+    {
+      "name": "Commissions & courtages",
+      "amount": 1248400,
+      "code": "6320"
+    },
+    {
+      "name": "Dotations aux amortissements",
+      "amount": 2100901,
+      "code": "6810"
+    },
+    {
+      "name": "Droits d'enregistrement et de timbre",
+      "amount": 206000,
+      "code": "6468"
+    },
+    {
+      "name": "Emballage à usage mixte",
+      "amount": 42400,
+      "code": "6083"
+    },
+    {
+      "name": "Entretien, réparations, maintenance",
+      "amount": 538250,
+      "code": "6240"
+    },
+    {
+      "name": "Formations du personnel",
+      "amount": 1080000,
+      "code": "6333"
+    },
+    {
+      "name": "Fourniture non stockable / Autres energies",
+      "amount": 68520,
+      "code": "6053"
+    },
+    {
+      "name": "Fournitures d'entretien non stockables",
+      "amount": 275072,
+      "code": "6054"
+    },
+    {
+      "name": "Fournitures de bureau",
+      "amount": 109900,
+      "code": "6047"
+    },
+    {
+      "name": "Fournitures non stockables - Eau",
+      "amount": 45894,
+      "code": "6051"
+    },
+    {
+      "name": "Fournitures non stockables - Électricité",
+      "amount": 992000,
+      "code": "6052"
+    },
+    {
+      "name": "Frais bancaires & commissions",
+      "amount": 201318,
+      "code": "6310"
+    },
+    {
+      "name": "Frais de recrutement",
+      "amount": 80000,
+      "code": "6380"
+    },
+    {
+      "name": "Frais de télécommunications",
+      "amount": 535800,
+      "code": "6281"
+    },
+    {
+      "name": "Frais de Téléphone",
+      "amount": 862705,
+      "code": "6280"
+    },
+    {
+      "name": "Frais sur instruments monnaie électronique",
+      "amount": 109090,
+      "code": "6317"
+    },
+    {
+      "name": "Honoraire",
+      "amount": 297050,
+      "code": "6324"
+    },
+    {
+      "name": "Location de materiels et outillages",
+      "amount": 55500,
+      "code": "6223"
+    },
+    {
+      "name": "Locations & charges locatives",
+      "amount": 6549030,
+      "code": "62200"
+    },
+    {
+      "name": "Matieres consommables",
+      "amount": 481109,
+      "code": "6041"
+    },
+    {
+      "name": "Perte sur créances irrécouvrables",
+      "amount": 545725,
+      "code": "6560"
+    },
+    {
+      "name": "Primes et gratifications",
+      "amount": 25000,
+      "code": "66220"
+    },
+    {
+      "name": "Publicité, publications, relations publiques",
+      "amount": 2500165,
+      "code": "6270"
+    },
+    {
+      "name": "Réceptions",
+      "amount": 532607,
+      "code": "6383"
+    },
+    {
+      "name": "Redevances de logiciels",
+      "amount": 578466,
+      "code": "6343"
+    },
+    {
+      "name": "Services extérieurs",
+      "amount": 2069750,
+      "code": "6300"
+    },
+    {
+      "name": "Transports du personnel",
+      "amount": 291770,
+      "code": "6140"
+    },
+    {
+      "name": "Achat de travaux, matériel et équipement",
+      "amount": 534500,
+      "code": "6058"
+    },
+    {
+      "name": "Autres pénalités et amendes fiscales",
+      "amount": 15260,
+      "code": "6478"
+    },
+    {
+      "name": "Dons",
+      "amount": 43000,
+      "code": "6582"
+    }
+  ]
+}

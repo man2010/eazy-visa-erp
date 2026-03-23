@@ -1,0 +1,761 @@
+{
+  "code": 0,
+  "message": "success",
+  "profit_and_loss": [
+    {
+      "total": 122934250,
+      "previous_values": [],
+      "account_transactions": [
+        {
+          "total": 123354250,
+          "total_label": "Total des Bénéfices d’exploitation",
+          "previous_values": [],
+          "account_transactions": [
+            {
+              "total_sub_account": 0,
+              "total": 160300,
+              "account_id": "5847016000001042055",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Commission",
+              "previous_total_sub_account": [],
+              "account_code": "7072",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": -2409550,
+              "account_id": "5847016000000000406",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Rabais, remises, ristournes obtenue",
+              "previous_total_sub_account": [],
+              "account_code": "7069",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 125603500,
+              "account_id": "5847016000000000388",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Ventes",
+              "previous_total_sub_account": [],
+              "account_code": "70",
+              "is_collapsed_view": false,
+              "previous_total": []
+            }
+          ],
+          "name": "Produits d’exploitation",
+          "previous_total": []
+        },
+        {
+          "total": 420000,
+          "total_label": "Total du Coût des marchandises vendues",
+          "previous_values": [],
+          "account_transactions": [
+            {
+              "total_sub_account": 0,
+              "total": 420000,
+              "account_id": "5847016000000034003",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Achat de livres",
+              "previous_total_sub_account": [],
+              "account_code": "601",
+              "is_collapsed_view": false,
+              "previous_total": []
+            }
+          ],
+          "name": "Coût des marchandises vendues",
+          "previous_total": []
+        }
+      ],
+      "name": "Profit brut",
+      "previous_total": []
+    },
+    {
+      "total": 93597447,
+      "previous_values": [],
+      "account_transactions": [
+        {
+          "total": 29336803,
+          "total_label": "Total des Dépenses d’exploitation",
+          "previous_values": [],
+          "account_transactions": [
+            {
+              "total_sub_account": 0,
+              "total": 190264,
+              "account_id": "5847016000000628093",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Abonnement logiciels",
+              "previous_total_sub_account": [],
+              "account_code": "6171",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 160000,
+              "account_id": "5847016000001363370",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Achat d'etude et de prestation services",
+              "previous_total_sub_account": [],
+              "account_code": "605700",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 338700,
+              "account_id": "5847016000000705588",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Achats de travaux , materiels et équipement",
+              "previous_total_sub_account": [],
+              "account_code": "6058",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 50000,
+              "account_id": "5847016000001379270",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Assurance Multirisque",
+              "previous_total_sub_account": [],
+              "account_code": "625100",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 119470,
+              "account_id": "5847016000000000460",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Autres frais",
+              "previous_total_sub_account": [],
+              "account_code": "605",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 437450,
+              "account_id": "5847016000000344113",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Autres frais de transport",
+              "previous_total_sub_account": [],
+              "account_code": "618",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 745500,
+              "account_id": "5847016000000901063",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Autres services exterieures",
+              "previous_total_sub_account": [],
+              "account_code": "63",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 1248400,
+              "account_id": "5847016000000901071",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Commissions et courtages",
+              "previous_total_sub_account": [],
+              "account_code": "6322",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 309904,
+              "account_id": "5847016000000638088",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Consommables / Impression",
+              "previous_total_sub_account": [],
+              "account_code": "6011",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 641000,
+              "account_id": "5847016000000000439",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Créances irrécouvrables",
+              "previous_total_sub_account": [],
+              "account_code": "",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 207347,
+              "account_id": "5847016000000625210",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Dépenses de cuisine",
+              "previous_total_sub_account": [],
+              "account_code": "6055",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 15000,
+              "account_id": "5847016000000000427",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Dépenses informatiques et d’Internet",
+              "previous_total_sub_account": [],
+              "account_code": "",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 60400,
+              "account_id": "5847016000000125073",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Déplacement personnel",
+              "previous_total_sub_account": [],
+              "account_code": "",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 12819,
+              "account_id": "5847016000000125129",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Eau",
+              "previous_total_sub_account": [],
+              "account_code": "",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 609000,
+              "account_id": "5847016000000125135",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Electricité",
+              "previous_total_sub_account": [],
+              "account_code": "",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 15000,
+              "account_id": "5847016000001381341",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Fourniture non stockable / Autres energies",
+              "previous_total_sub_account": [],
+              "account_code": "6053",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 9600,
+              "account_id": "5847016000001381674",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Fourniture non stockables - Eau",
+              "previous_total_sub_account": [],
+              "account_code": "6051",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 640500,
+              "account_id": "5847016000000000400",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Fournitures et équipement bureau",
+              "previous_total_sub_account": [],
+              "account_code": "6047",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 400200,
+              "account_id": "5847016000000125121",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Fournitures non stockables - Électricité",
+              "previous_total_sub_account": [],
+              "account_code": "6052",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 137091,
+              "account_id": "5847016000000000409",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Frais bancaires et charges",
+              "previous_total_sub_account": [],
+              "account_code": "631",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 23000,
+              "account_id": "5847016000000125079",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "frais de livraison",
+              "previous_total_sub_account": [],
+              "account_code": "",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 20000,
+              "account_id": "5847016000000357132",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Frais de recrutement du personnel",
+              "previous_total_sub_account": [],
+              "account_code": "6381",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 376220,
+              "account_id": "5847016000000125165",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Frais de télécommunications",
+              "previous_total_sub_account": [],
+              "account_code": "628",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 37475,
+              "account_id": "5847016000000000442",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Frais de télécopie",
+              "previous_total_sub_account": [],
+              "account_code": "6283",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 670660,
+              "account_id": "5847016000000630001",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Frais de téléphone",
+              "previous_total_sub_account": [],
+              "account_code": "6281",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 500,
+              "account_id": "5847016000000139033",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "frais de transfert",
+              "previous_total_sub_account": [],
+              "account_code": "",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 46865,
+              "account_id": "5847016000000681001",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Frais sur instrument ùonnaie elctronique",
+              "previous_total_sub_account": [],
+              "account_code": "6317",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 35000,
+              "account_id": "5847016000000638131",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Honoraires / frais judiciaires",
+              "previous_total_sub_account": [],
+              "account_code": "6227",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 52500,
+              "account_id": "5847016000000947023",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Location de materiels et outillages",
+              "previous_total_sub_account": [],
+              "account_code": "6223",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 393500,
+              "account_id": "5847016000000683127",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Locations et charges locatives diverses",
+              "previous_total_sub_account": [],
+              "account_code": "6228",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 5424000,
+              "account_id": "5847016000000000430",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Locations, charges locatives",
+              "previous_total_sub_account": [],
+              "account_code": "622",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 534016,
+              "account_id": "5847016000000168574",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Logiciel",
+              "previous_total_sub_account": [],
+              "account_code": "2131",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 222040,
+              "account_id": "5847016000000000421",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Logiciel et Internet",
+              "previous_total_sub_account": [],
+              "account_code": "2193",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 623500,
+              "account_id": "5847016000000646011",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Petit matériel et outillage",
+              "previous_total_sub_account": [],
+              "account_code": "6056",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 25000,
+              "account_id": "5847016000001360023",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Primes et gratifications",
+              "previous_total_sub_account": [],
+              "account_code": "662200",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 193209,
+              "account_id": "5847016000000630049",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Produits d'hygiene",
+              "previous_total_sub_account": [],
+              "account_code": "6054",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 2557045,
+              "account_id": "5847016000000000403",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Publicité, publications, relations publiques",
+              "previous_total_sub_account": [],
+              "account_code": "627",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 34810,
+              "account_id": "5847016000001376001",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Réceptions",
+              "previous_total_sub_account": [],
+              "account_code": "6383",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 4187100,
+              "account_id": "5847016000000125233",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Rémunération transférée de personnel extérieur",
+              "previous_total_sub_account": [],
+              "account_code": "667",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 74000,
+              "account_id": "5847016000000000457",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Réparations et entretien",
+              "previous_total_sub_account": [],
+              "account_code": "",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 6864918,
+              "account_id": "5847016000000000445",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Salaires et rémunération des employés",
+              "previous_total_sub_account": [],
+              "account_code": "422",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 457000,
+              "account_id": "5847016000000142449",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Service extérieur",
+              "previous_total_sub_account": [],
+              "account_code": "62",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 17000,
+              "account_id": "5847016000000705696",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Services exterieures ponctuelles",
+              "previous_total_sub_account": [],
+              "account_code": "",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 66000,
+              "account_id": "5847016000000000418",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Transports du personnel",
+              "previous_total_sub_account": [],
+              "account_code": "614",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 53800,
+              "account_id": "5847016000000125159",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Wifi",
+              "previous_total_sub_account": [],
+              "account_code": "",
+              "is_collapsed_view": false,
+              "previous_total": []
+            }
+          ],
+          "name": "Dépenses d’exploitation",
+          "previous_total": []
+        }
+      ],
+      "name": "Bénéfice d’exploitation",
+      "previous_total": []
+    },
+    {
+      "total": 93597447,
+      "previous_values": [],
+      "account_transactions": [
+        {
+          "total": 0,
+          "total_label": "Total des bénéfices hors exploitation",
+          "previous_values": [],
+          "account_transactions": [],
+          "name": "Bénéfices hors exploitation",
+          "previous_total": []
+        },
+        {
+          "total": 0,
+          "total_label": "Total des frais hors exploitation",
+          "previous_values": [],
+          "account_transactions": [],
+          "name": "Frais hors exploitation",
+          "previous_total": []
+        }
+      ],
+      "name": "Profit net / Perte nette",
+      "previous_total": []
+    }
+  ],
+  "page_context": {
+    "can_show_reports_banner": false,
+    "can_schedule": true,
+    "is_inv_txn_job_in_progress": false,
+    "report_basis": "Comptabilité d’exercice",
+    "is_already_scheduled": false,
+    "report_type": "profit_and_loss",
+    "applied_filter": "TransactionDate.ThisMonth",
+    "from_date": "2023-01-01",
+    "to_date": "2026-12-31",
+    "previous_date_range": [],
+    "show_rows": "non_zero",
+    "last_accessed_time_formatted": "27 janv. 2026 10:08 PM",
+    "select_columns": [
+      {
+        "field": "name",
+        "group": "report"
+      },
+      {
+        "field": "account_code",
+        "group": "report"
+      },
+      {
+        "field": "total",
+        "group": "report"
+      }
+    ],
+    "group_by": [
+      {
+        "field": "none",
+        "group": "report"
+      }
+    ],
+    "date_range_label": "",
+    "fifo_scheduler_status": {
+      "job_last_run_time_formatted": "05 déc. 2025 04:28 PM",
+      "job_status": "Completed",
+      "is_queue_entry_present": false,
+      "is_job_status_completed": true,
+      "job_last_run_time": "1764995290277"
+    },
+    "date_range_list": [
+      {
+        "date_range_label": "01 janv. 2023 - 31 déc. 2026",
+        "from_date": "2023-01-01",
+        "to_date": "2026-12-31"
+      }
+    ],
+    "sort_column": "account_name",
+    "sort_order": "A"
+  }
+}

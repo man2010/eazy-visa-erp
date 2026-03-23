@@ -1,0 +1,19 @@
+{
+  "activeOwners": [],
+  "archivedOwners": [],
+  "deals": [],
+  "errors": [
+    {
+      "step": "activeOwners",
+      "error": "Error"
+    },
+    {
+      "step": "archivedOwners",
+      "error": "getaddrinfo ENOTFOUND api.hubapi.com"
+    },
+    {
+      "step": "deals",
+      "error": "getaddrinfo ENOTFOUND api.hubapi.com"
+    }
+  ]
+}

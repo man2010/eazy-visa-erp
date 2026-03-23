@@ -1,0 +1,172 @@
+[
+  {
+    "id": "30336191909",
+    "properties": {
+      "amount": "75000",
+      "createdate": "2024-12-13T12:14:14.220Z",
+      "dealname": "Mensualité cours  de langue",
+      "dealstage": "qualifiedtobuy",
+      "dealtype": null,
+      "hs_lastmodifieddate": "2025-12-02T09:29:45.190Z",
+      "hs_object_id": "30336191909",
+      "pipeline": "default"
+    },
+    "createdAt": "2024-12-13T12:14:14.220Z",
+    "updatedAt": "2025-12-02T09:29:45.190Z",
+    "archived": false,
+    "url": "https://app.hubspot.com/contacts/43538067/record/0-3/30336191909"
+  },
+  {
+    "id": "28414069420",
+    "properties": {
+      "amount": "75000",
+      "createdate": "2024-10-28T11:51:36.509Z",
+      "dealname": "Demarrage des cours de langue",
+      "dealstage": "appointmentscheduled",
+      "dealtype": null,
+      "hs_lastmodifieddate": "2025-10-23T13:33:43.500Z",
+      "hs_object_id": "28414069420",
+      "pipeline": "default"
+    },
+    "createdAt": "2024-10-28T11:51:36.509Z",
+    "updatedAt": "2025-10-23T13:33:43.500Z",
+    "archived": false,
+    "url": "https://app.hubspot.com/contacts/43538067/record/0-3/28414069420"
+  },
+  {
+    "id": "22161254011",
+    "properties": {
+      "amount": "7000",
+      "createdate": "2024-09-11T17:27:47.278Z",
+      "dealname": "Manuels de cours",
+      "dealstage": "appointmentscheduled",
+      "dealtype": null,
+      "hs_lastmodifieddate": "2025-06-19T09:38:37.448Z",
+      "hs_object_id": "22161254011",
+      "pipeline": "default"
+    },
+    "createdAt": "2024-09-11T17:27:47.278Z",
+    "updatedAt": "2025-06-19T09:38:37.448Z",
+    "archived": false,
+    "url": "https://app.hubspot.com/contacts/43538067/record/0-3/22161254011"
+  },
+  {
+    "id": "22148376921",
+    "properties": {
+      "amount": "75000",
+      "createdate": "2024-09-10T09:54:53.553Z",
+      "dealname": "Mensualité cours de langue",
+      "dealstage": "qualifiedtobuy",
+      "dealtype": null,
+      "hs_lastmodifieddate": "2025-06-19T09:38:37.423Z",
+      "hs_object_id": "22148376921",
+      "pipeline": "default"
+    },
+    "createdAt": "2024-09-10T09:54:53.553Z",
+    "updatedAt": "2025-06-19T09:38:37.423Z",
+    "archived": false,
+    "url": "https://app.hubspot.com/contacts/43538067/record/0-3/22148376921"
+  },
+  {
+    "id": "22087978860",
+    "properties": {
+      "amount": "14000",
+      "createdate": "2024-09-09T16:17:35.802Z",
+      "dealname": "Manuels de cours : A1.1 & A1.2",
+      "dealstage": "closedwon",
+      "dealtype": null,
+      "hs_lastmodifieddate": "2026-02-11T21:12:58.521Z",
+      "hs_object_id": "22087978860",
+      "pipeline": "default"
+    },
+    "createdAt": "2024-09-09T16:17:35.802Z",
+    "updatedAt": "2026-02-11T21:12:58.521Z",
+    "archived": false,
+    "url": "https://app.hubspot.com/contacts/43538067/record/0-3/22087978860"
+  },
+  {
+    "id": "22070906796",
+    "properties": {
+      "amount": "7000",
+      "createdate": "2024-09-09T13:01:07.027Z",
+      "dealname": "Manuels de cours",
+      "dealstage": "appointmentscheduled",
+      "dealtype": null,
+      "hs_lastmodifieddate": "2026-02-11T15:23:47.076Z",
+      "hs_object_id": "22070906796",
+      "pipeline": "default"
+    },
+    "createdAt": "2024-09-09T13:01:07.027Z",
+    "updatedAt": "2026-02-11T15:23:47.076Z",
+    "archived": false,
+    "url": "https://app.hubspot.com/contacts/43538067/record/0-3/22070906796"
+  },
+  {
+    "id": "22070906717",
+    "properties": {
+      "amount": "75000",
+      "createdate": "2024-09-09T13:00:30.120Z",
+      "dealname": "Mensualité cours de langue",
+      "dealstage": "qualifiedtobuy",
+      "dealtype": null,
+      "hs_lastmodifieddate": "2026-02-11T15:23:47.481Z",
+      "hs_object_id": "22070906717",
+      "pipeline": "default"
+    },
+    "createdAt": "2024-09-09T13:00:30.120Z",
+    "updatedAt": "2026-02-11T15:23:47.481Z",
+    "archived": false,
+    "url": "https://app.hubspot.com/contacts/43538067/record/0-3/22070906717"
+  },
+  {
+    "id": "22047925890",
+    "properties": {
+      "amount": "14000",
+      "createdate": "2024-09-09T12:20:23.443Z",
+      "dealname": "Manuels de cours",
+      "dealstage": "closedwon",
+      "dealtype": null,
+      "hs_lastmodifieddate": "2026-01-08T18:48:29.341Z",
+      "hs_object_id": "22047925890",
+      "pipeline": "default"
+    },
+    "createdAt": "2024-09-09T12:20:23.443Z",
+    "updatedAt": "2026-01-08T18:48:29.341Z",
+    "archived": false,
+    "url": "https://app.hubspot.com/contacts/43538067/record/0-3/22047925890"
+  },
+  {
+    "id": "22071115824",
+    "properties": {
+      "amount": "50000",
+      "createdate": "2024-09-05T13:22:51.956Z",
+      "dealname": "Mensualité cours de langue (paiement acompte)",
+      "dealstage": "closedwon",
+      "dealtype": null,
+      "hs_lastmodifieddate": "2024-09-09T13:26:43.458Z",
+      "hs_object_id": "22071115824",
+      "pipeline": "default"
+    },
+    "createdAt": "2024-09-05T13:22:51.956Z",
+    "updatedAt": "2024-09-09T13:26:43.458Z",
+    "archived": false,
+    "url": "https://app.hubspot.com/contacts/43538067/record/0-3/22071115824"
+  },
+  {
+    "id": "21894907021",
+    "properties": {
+      "amount": "75000",
+      "createdate": "2024-09-03T10:33:24.002Z",
+      "dealname": "Mensualité cours de langue",
+      "dealstage": "qualifiedtobuy",
+      "dealtype": null,
+      "hs_lastmodifieddate": "2025-06-19T09:38:19.055Z",
+      "hs_object_id": "21894907021",
+      "pipeline": "default"
+    },
+    "createdAt": "2024-09-03T10:33:24.002Z",
+    "updatedAt": "2025-06-19T09:38:19.055Z",
+    "archived": false,
+    "url": "https://app.hubspot.com/contacts/43538067/record/0-3/21894907021"
+  }
+]

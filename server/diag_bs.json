@@ -1,0 +1,274 @@
+{
+  "code": 0,
+  "message": "success",
+  "balance_sheet": [
+    {
+      "total": -960744,
+      "total_label": "TOTAL DE L’ACTIF",
+      "previous_values": [],
+      "account_transactions": [
+        {
+          "total": -1212744,
+          "total_label": "Total des Actifs circulants",
+          "previous_values": [],
+          "account_transactions": [
+            {
+              "total": -1022480,
+              "previous_values": [],
+              "account_transactions": [
+                {
+                  "total_sub_account": 0,
+                  "total": -436560,
+                  "account_id": "7993787000000000361",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "Caisse",
+                  "previous_total_sub_account": [],
+                  "account_code": "5710",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0,
+                  "total": -585920,
+                  "account_id": "7993787000000102611",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "WAVE",
+                  "previous_total_sub_account": [],
+                  "account_code": "5521",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                }
+              ],
+              "name": "Espèces",
+              "previous_total_sub_account": [],
+              "previous_total": []
+            },
+            {
+              "total": -190264,
+              "previous_values": [],
+              "account_transactions": [
+                {
+                  "total_sub_account": 0,
+                  "total": -146931,
+                  "account_id": "7993787000000107123",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "BIS ( Banque Islamique du Senegal )",
+                  "previous_total_sub_account": [],
+                  "account_code": "5212",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                },
+                {
+                  "total_sub_account": 0,
+                  "total": -43333,
+                  "account_id": "7993787000000127893",
+                  "depth": 0,
+                  "previous_values": [],
+                  "is_child_present": false,
+                  "name": "COMPTE FERME",
+                  "previous_total_sub_account": [],
+                  "account_code": "52100",
+                  "is_collapsed_view": false,
+                  "previous_total": []
+                }
+              ],
+              "name": "Banque",
+              "previous_total_sub_account": [],
+              "previous_total": []
+            },
+            {
+              "account_transactions": []
+            },
+            {
+              "total": 0,
+              "previous_values": [],
+              "account_transactions": [],
+              "name": "Autres actifs circulants",
+              "previous_total_sub_account": [],
+              "previous_total": []
+            }
+          ],
+          "name": "Actifs circulants",
+          "previous_total_sub_account": [],
+          "previous_total": []
+        },
+        {
+          "total": 12000,
+          "total_label": "Total des Autres actifs",
+          "previous_values": [],
+          "account_transactions": [
+            {
+              "total_sub_account": 0,
+              "total": 12000,
+              "account_id": "7993787000000102595",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Autres comptes débiteurs tiers",
+              "previous_total_sub_account": [],
+              "account_code": "4670",
+              "is_collapsed_view": false,
+              "previous_total": []
+            }
+          ],
+          "name": "Autres actifs",
+          "previous_total_sub_account": [],
+          "previous_total": []
+        },
+        {
+          "total": 240000,
+          "total_label": "Total des Immobilisations",
+          "previous_values": [],
+          "account_transactions": [
+            {
+              "total_sub_account": 0,
+              "total": 240000,
+              "account_id": "7993787000000102357",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Matériel & outillage",
+              "previous_total_sub_account": [],
+              "account_code": "2410",
+              "is_collapsed_view": false,
+              "previous_total": []
+            }
+          ],
+          "name": "Immobilisations",
+          "previous_total_sub_account": [],
+          "previous_total": []
+        }
+      ],
+      "name": "Actifs",
+      "previous_total_sub_account": [],
+      "previous_total": []
+    },
+    {
+      "total": -960744,
+      "total_label": "TOTAL DU PASSIF ET DES CAPITAUX PROPRES",
+      "previous_values": [],
+      "account_transactions": [
+        {
+          "total": 0,
+          "total_label": "Total des passifs",
+          "previous_values": [],
+          "account_transactions": [
+            {
+              "total": 0,
+              "total_label": "Total du passif à court terme",
+              "previous_values": [],
+              "account_transactions": [],
+              "name": "Passif à court terme",
+              "previous_total_sub_account": [],
+              "previous_total": []
+            },
+            {
+              "total": 0,
+              "total_label": "Total du passif à long terme",
+              "previous_values": [],
+              "account_transactions": [],
+              "name": "Passif à long terme",
+              "previous_total_sub_account": [],
+              "previous_total": []
+            },
+            {
+              "total": 0,
+              "total_label": "Total de l’autre passif",
+              "previous_values": [],
+              "account_transactions": [],
+              "name": "Autre passif",
+              "previous_total_sub_account": [],
+              "previous_total": []
+            }
+          ],
+          "name": "Passifs",
+          "previous_total_sub_account": [],
+          "previous_total": []
+        },
+        {
+          "total": -960744,
+          "total_label": "Total des Capitaux propres",
+          "previous_values": [],
+          "account_transactions": [
+            {
+              "total": -154770,
+              "account_id": "",
+              "previous_values": [],
+              "name": "Bénéfices de l’année en cours",
+              "previous_total": []
+            },
+            {
+              "total": -805974,
+              "account_id": "7993787000000000379",
+              "previous_values": [],
+              "name": "Résultat courant",
+              "account_code": "1065",
+              "previous_total": [],
+              "is_retained_earnings": true
+            }
+          ],
+          "name": "Capitaux propres",
+          "previous_total_sub_account": [],
+          "previous_total": []
+        }
+      ],
+      "name": "Passif et capitaux propres",
+      "previous_total_sub_account": [],
+      "previous_total": []
+    }
+  ],
+  "page_context": {
+    "can_show_reports_banner": false,
+    "can_schedule": true,
+    "is_inv_txn_job_in_progress": false,
+    "report_basis": "Comptabilité d’exercice",
+    "is_already_scheduled": false,
+    "report_type": "balance_sheet",
+    "applied_filter": "TransactionDate.Today",
+    "as_of_date": "2026-01-27",
+    "to_date": "2026-01-27",
+    "previous_date_range": [],
+    "show_rows": "non_zero",
+    "last_accessed_time_formatted": "27 janv. 2026 08:03 PM",
+    "select_columns": [
+      {
+        "field": "name",
+        "group": "report"
+      },
+      {
+        "field": "account_code",
+        "group": "report"
+      },
+      {
+        "field": "total",
+        "group": "report"
+      }
+    ],
+    "group_by": [
+      {
+        "field": "none",
+        "group": "report"
+      }
+    ],
+    "date_range_label": "",
+    "fifo_scheduler_status": {
+      "is_queue_entry_present": false,
+      "is_job_status_completed": true
+    },
+    "date_range_list": [
+      {
+        "date_range_label": "27 janv. 2026",
+        "from_date": "2026-01-27",
+        "to_date": "2026-01-27"
+      }
+    ],
+    "sort_column": "account",
+    "sort_order": "A"
+  }
+}

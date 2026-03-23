@@ -1,0 +1,46 @@
+{
+  "updatedAt": "2024-09-11T17:29:24.127Z",
+  "createdAt": "2020-06-30T15:57:37.289Z",
+  "name": "degree",
+  "label": "Statut_billetterie",
+  "type": "enumeration",
+  "fieldType": "checkbox",
+  "description": "Contact's degree. Required for the Facebook Ads Integration. Automatically synced from the Lead Ads tool.",
+  "groupName": "contactlcs",
+  "options": [
+    {
+      "label": "Prospect – devis demandé",
+      "value": "Prospect – devis demandé",
+      "description": "",
+      "displayOrder": 0,
+      "hidden": false
+    },
+    {
+      "label": "Acheteur",
+      "value": "Acheteur",
+      "description": "",
+      "displayOrder": 1,
+      "hidden": false
+    },
+    {
+      "label": "Client récurrent",
+      "value": "Client récurrent",
+      "description": "",
+      "displayOrder": 2,
+      "hidden": false
+    }
+  ],
+  "displayOrder": -1,
+  "calculated": false,
+  "externalOptions": false,
+  "hasUniqueValue": false,
+  "hidden": false,
+  "hubspotDefined": true,
+  "modificationMetadata": {
+    "archivable": false,
+    "readOnlyDefinition": false,
+    "readOnlyValue": false
+  },
+  "formField": true,
+  "dataSensitivity": "non_sensitive"
+}

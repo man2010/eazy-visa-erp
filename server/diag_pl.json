@@ -1,0 +1,264 @@
+{
+  "code": 0,
+  "message": "success",
+  "profit_and_loss": [
+    {
+      "total": -420000,
+      "previous_values": [],
+      "account_transactions": [
+        {
+          "total": 0,
+          "total_label": "Total des Bénéfices d’exploitation",
+          "previous_values": [],
+          "account_transactions": [],
+          "name": "Produits d’exploitation",
+          "previous_total": []
+        },
+        {
+          "total": 420000,
+          "total_label": "Total du Coût des marchandises vendues",
+          "previous_values": [],
+          "account_transactions": [
+            {
+              "total_sub_account": 0,
+              "total": 420000,
+              "account_id": "7993787000000034003",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Achats des marchandises vendues",
+              "previous_total_sub_account": [],
+              "account_code": "6011",
+              "is_collapsed_view": false,
+              "previous_total": []
+            }
+          ],
+          "name": "Coût des marchandises vendues",
+          "previous_total": []
+        }
+      ],
+      "name": "Profit brut",
+      "previous_total": []
+    },
+    {
+      "total": -1004484,
+      "previous_values": [],
+      "account_transactions": [
+        {
+          "total": 584484,
+          "total_label": "Total des Dépenses d’exploitation",
+          "previous_values": [],
+          "account_transactions": [
+            {
+              "total_sub_account": 0,
+              "total": 102400,
+              "account_id": "7993787000000072001",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Achat petit matériel et outillage",
+              "previous_total_sub_account": [],
+              "account_code": "6056",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 110000,
+              "account_id": "7993787000000000439",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Achats d'études et prestations de services",
+              "previous_total_sub_account": [],
+              "account_code": "6057",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 17500,
+              "account_id": "7993787000000035005",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Autres charges diverses",
+              "previous_total_sub_account": [],
+              "account_code": "6588",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 40150,
+              "account_id": "7993787000000148185",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Fournitures d'entretien non stockables",
+              "previous_total_sub_account": [],
+              "account_code": "6054",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 5000,
+              "account_id": "7993787000000000412",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Frais de Téléphone",
+              "previous_total_sub_account": [],
+              "account_code": "6280",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 6960,
+              "account_id": "7993787000000000442",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Matieres consommables",
+              "previous_total_sub_account": [],
+              "account_code": "6041",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 50000,
+              "account_id": "7993787000000148128",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Médecine et pharmacie du travail",
+              "previous_total_sub_account": [],
+              "account_code": "6684",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 62210,
+              "account_id": "7993787000000127289",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Réceptions",
+              "previous_total_sub_account": [],
+              "account_code": "6383",
+              "is_collapsed_view": false,
+              "previous_total": []
+            },
+            {
+              "total_sub_account": 0,
+              "total": 190264,
+              "account_id": "7993787000000114074",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Redevances de logiciels",
+              "previous_total_sub_account": [],
+              "account_code": "6343",
+              "is_collapsed_view": false,
+              "previous_total": []
+            }
+          ],
+          "name": "Dépenses d’exploitation",
+          "previous_total": []
+        }
+      ],
+      "name": "Bénéfice d’exploitation",
+      "previous_total": []
+    },
+    {
+      "total": -1010744,
+      "previous_values": [],
+      "account_transactions": [
+        {
+          "total": 0,
+          "total_label": "Total des bénéfices hors exploitation",
+          "previous_values": [],
+          "account_transactions": [],
+          "name": "Bénéfices hors exploitation",
+          "previous_total": []
+        },
+        {
+          "total": 6260,
+          "total_label": "Total des frais hors exploitation",
+          "previous_values": [],
+          "account_transactions": [
+            {
+              "total_sub_account": 0,
+              "total": 6260,
+              "account_id": "7993787000000148194",
+              "depth": 0,
+              "previous_values": [],
+              "is_child_present": false,
+              "name": "Autres pénalités et amendes fiscales",
+              "previous_total_sub_account": [],
+              "account_code": "6478",
+              "is_collapsed_view": false,
+              "previous_total": []
+            }
+          ],
+          "name": "Frais hors exploitation",
+          "previous_total": []
+        }
+      ],
+      "name": "Profit net / Perte nette",
+      "previous_total": []
+    }
+  ],
+  "page_context": {
+    "can_show_reports_banner": false,
+    "can_schedule": true,
+    "is_inv_txn_job_in_progress": false,
+    "report_basis": "Comptabilité d’exercice",
+    "is_already_scheduled": false,
+    "report_type": "profit_and_loss",
+    "applied_filter": "TransactionDate.ThisMonth",
+    "from_date": "2023-01-01",
+    "to_date": "2026-12-31",
+    "previous_date_range": [],
+    "show_rows": "non_zero",
+    "last_accessed_time_formatted": "27 janv. 2026 08:03 PM",
+    "select_columns": [
+      {
+        "field": "name",
+        "group": "report"
+      },
+      {
+        "field": "account_code",
+        "group": "report"
+      },
+      {
+        "field": "total",
+        "group": "report"
+      }
+    ],
+    "group_by": [
+      {
+        "field": "none",
+        "group": "report"
+      }
+    ],
+    "date_range_label": "",
+    "fifo_scheduler_status": {
+      "is_queue_entry_present": false,
+      "is_job_status_completed": true
+    },
+    "date_range_list": [
+      {
+        "date_range_label": "01 janv. 2023 - 31 déc. 2026",
+        "from_date": "2023-01-01",
+        "to_date": "2026-12-31"
+      }
+    ],
+    "sort_column": "account_name",
+    "sort_order": "A"
+  }
+}

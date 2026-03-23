@@ -1,0 +1,30 @@
+{
+  "zoho": [
+    {
+      "id": "854518157",
+      "name": "EAZY-VISA 2024"
+    },
+    {
+      "id": "909065006",
+      "name": "EAZY-VISA BILLETERIE"
+    },
+    {
+      "id": "910367975",
+      "name": "EAZY-VISA OFFICIELLE"
+    },
+    {
+      "id": "873088744",
+      "name": "EAZY-VISA SARL"
+    }
+  ],
+  "hubspot": [
+    {
+      "id": "default",
+      "label": "Pipeline des ventes"
+    },
+    {
+      "id": "702873524",
+      "label": "SuiviClients"
+    }
+  ]
+}
