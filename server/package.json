@@ -2,10 +2,9 @@
   "name": "dashboard-server",
   "version": "1.0.0",
   "description": "Backend for Dashboard Project",
-  "main": "src/server.ts",
+  "main": "dist/server.js",
   "scripts": {
-    "start": "ts-node src/server.ts",
-    "start:safe": "node src/start-with-dns-warmup.js",
+    "start": "node dist/server.js",
     "dev": "nodemon src/server.ts",
     "build": "tsc"
   },
