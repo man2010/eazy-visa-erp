@@ -12,7 +12,7 @@ export const mockUsers: MockUser[] = [
   {
     email: 'admin@erp.com',
     password: 'admin123',
-    name: 'Alexandre Dubois',
+    name: 'Mouhamed Moudjitaba Diallo',
     role: 'Directeur Général',
     department: 'admin',
   },
@@ -20,7 +20,7 @@ export const mockUsers: MockUser[] = [
   {
     email: 'it@erp.com',
     password: 'it123',
-    name: 'Thomas Martin',
+    name: 'Razina Idi Mani',
     role: 'Responsable IT',
     department: 'it',
   },
@@ -28,7 +28,7 @@ export const mockUsers: MockUser[] = [
   {
     email: 'marketing@erp.com',
     password: 'marketing123',
-    name: 'Sophie Laurent',
+    name: 'Ndeye Fatou Hann',
     role: 'Directrice Marketing',
     department: 'marketing',
   },
@@ -36,15 +36,15 @@ export const mockUsers: MockUser[] = [
   {
     email: 'finance@erp.com',
     password: 'finance123',
-    name: 'Pierre Dupont',
-    role: 'Directeur Financier',
+    name: 'Ahmadou Diouf',
+    role: 'Comptable',
     department: 'finance',
   },
   // HR Department
   {
     email: 'rh@erp.com',
     password: 'rh123',
-    name: 'Marie Bernard',
+    name: 'Yvon Bertran Gopele',
     role: 'Responsable RH',
     department: 'hr',
   },
@@ -52,7 +52,7 @@ export const mockUsers: MockUser[] = [
   {
     email: 'support@erp.com',
     password: 'support123',
-    name: 'Julien Moreau',
+    name: 'Sophie Ndiaye',
     role: 'Chef Support Client',
     department: 'ticketing',
   },
@@ -60,7 +60,7 @@ export const mockUsers: MockUser[] = [
   {
     email: 'visa@erp.com',
     password: 'visa123',
-    name: 'Emma Rousseau',
+    name: 'Mariama Sall',
     role: 'Chargée Visa',
     department: 'visa',
   },
@@ -68,7 +68,7 @@ export const mockUsers: MockUser[] = [
   {
     email: 'commercial@erp.com',
     password: 'commercial123',
-    name: 'Lucas Petit',
+    name: 'Yan',
     role: 'Directeur Commercial',
     department: 'commercial',
   },
