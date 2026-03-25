@@ -78,63 +78,46 @@ export function LandingPage({ onGetStarted }: LandingPageProps) {
   ];
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-950 via-blue-950 to-slate-900 text-white overflow-hidden">
-      {/* Animated background */}
-      <div className="absolute inset-0 overflow-hidden">
-        <motion.div
-          className="absolute top-1/4 left-1/4 w-96 h-96 bg-blue-500/20 rounded-full blur-3xl"
-          animate={{
-            scale: [1, 1.2, 1],
-            opacity: [0.3, 0.5, 0.3],
-          }}
-          transition={{
-            duration: 8,
-            repeat: Infinity,
-            ease: "easeInOut"
-          }}
-        />
-        <motion.div
-          className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-purple-500/20 rounded-full blur-3xl"
-          animate={{
-            scale: [1.2, 1, 1.2],
-            opacity: [0.5, 0.3, 0.5],
-          }}
-          transition={{
-            duration: 10,
-            repeat: Infinity,
-            ease: "easeInOut"
-          }}
-        />
-      </div>
+    <div className="min-h-screen bg-white text-gray-900 overflow-hidden">
 
-      {/* Navigation */}
+      {/* ── Navigation ── */}
       <motion.nav
-        className="relative z-10 container mx-auto px-6 py-6 flex items-center justify-between"
-        initial={{ y: -100, opacity: 0 }}
+        className="sticky top-0 z-50 bg-white/95 backdrop-blur-md border-b border-gray-100 shadow-sm"
+        initial={{ y: -80, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
-        transition={{ duration: 0.8 }}
+        transition={{ duration: 0.6 }}
       >
-        <div className="flex items-center gap-3">
-          <motion.div
-            className="w-12 h-12 bg-gradient-to-br from-blue-500 to-purple-600 rounded-xl flex items-center justify-center"
-            whileHover={{ scale: 1.1, rotate: 5 }}
-            transition={{ type: "spring", stiffness: 400 }}
+        <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
+          <div className="flex items-center gap-3">
+            <motion.div
+              className="w-11 h-11 bg-[#A11C1C] rounded-xl flex items-center justify-center shadow-lg"
+              whileHover={{ scale: 1.08, rotate: 4 }}
+              transition={{ type: 'spring', stiffness: 400 }}
+            >
+              <Building2 className="w-6 h-6 text-white" />
+            </motion.div>
+            <span className="text-xl font-bold text-gray-900">Eazy-Visa ERP</span>
+          </div>
+          <Button
+            onClick={onGetStarted}
+            className="bg-[#A11C1C] text-white hover:bg-[#8a1818] shadow-md px-6"
           >
-            <Building2 className="w-7 h-7" />
-          </motion.div>
-          <span className="text-2xl">Enterprise ERP</span>
+            Se connecter
+          </Button>
         </div>
-        <Button 
-          onClick={onGetStarted}
-          className="bg-white text-black hover:bg-gray-100"
-        >
-          Se connecter
-        </Button>
       </motion.nav>
 
-      {/* Hero Section */}
-      <div className="relative z-10 container mx-auto px-6 pt-20 pb-32">
-        <div className="text-center max-w-5xl mx-auto">
+      {/* ── Hero Section ── */}
+      <section className="relative overflow-hidden bg-gradient-to-br from-white to-white text-white">
+        {/* Background overlay texture */}
+        <div className="absolute inset-0 opacity-10"
+          style={{
+            backgroundImage: `radial-gradient(circle at 20% 50%, #A11C1C 0%, transparent 50%),
+                              radial-gradient(circle at 80% 20%, #A11C1C 0%, transparent 40%)`
+          }}
+        />
+
+        <div className="relative max-w-7xl mx-auto px-6 pt-24 pb-32 text-center">
           <motion.div
             initial={{ scale: 0, opacity: 0 }}
             animate={{ scale: 1, opacity: 1 }}
@@ -146,17 +129,17 @@ export function LandingPage({ onGetStarted }: LandingPageProps) {
           </motion.div>
 
           <motion.h1
-            className="text-6xl md:text-7xl lg:text-8xl mb-6 bg-gradient-to-r from-white via-blue-100 to-purple-200 bg-clip-text text-transparent"
-            initial={{ y: 50, opacity: 0 }}
+            className="text-5xl md:text-7xl text-gray-600 font-bold mb-6 leading-tight"
+            initial={{ y: 40, opacity: 0 }}
             animate={{ y: 0, opacity: 1 }}
             transition={{ duration: 0.8, delay: 0.2 }}
           >
-            L'ERP du Futur
+            Eazy-Visa ERP 
           </motion.h1>
 
           <motion.p
-            className="text-xl md:text-2xl text-gray-300 mb-12 max-w-3xl mx-auto"
-            initial={{ y: 50, opacity: 0 }}
+            className="text-xl md:text-2xl text-gray-600 mb-12 max-w-3xl mx-auto"
+            initial={{ y: 40, opacity: 0 }}
             animate={{ y: 0, opacity: 1 }}
             transition={{ duration: 0.8, delay: 0.4 }}
           >
@@ -165,14 +148,14 @@ export function LandingPage({ onGetStarted }: LandingPageProps) {
 
           <motion.div
             className="flex flex-col sm:flex-row gap-4 justify-center items-center"
-            initial={{ y: 50, opacity: 0 }}
+            initial={{ y: 40, opacity: 0 }}
             animate={{ y: 0, opacity: 1 }}
             transition={{ duration: 0.8, delay: 0.6 }}
           >
-            <Button 
+            <Button
               size="lg"
               onClick={onGetStarted}
-              className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-6 text-lg group"
+              className="bg-[#A11C1C] hover:bg-[#8a1818] text-white px-8 py-6 text-lg shadow-xl group"
             >
               Commencer maintenant
               <motion.div
@@ -183,145 +166,163 @@ export function LandingPage({ onGetStarted }: LandingPageProps) {
                 <ArrowRight className="w-5 h-5" />
               </motion.div>
             </Button>
-            <Button 
+            <Button
               size="lg"
               variant="outline"
-              className="border-white/30 text-white hover:bg-white/10 px-8 py-6 text-lg"
+              className="border-white/30 text-gray-600 hover:bg-white/10 px-8 py-6 text-lg"
             >
               Voir la démo
             </Button>
           </motion.div>
+        </div>
 
-          {/* Stats */}
+        {/* ── Stats band ── 
+        <div className="relative bg-[#A11C1C]">
+          <div className="max-w-7xl mx-auto px-6 py-10">
+            <motion.div
+              className="grid grid-cols-2 md:grid-cols-4 gap-8"
+              initial={{ y: 30, opacity: 0 }}
+              animate={{ y: 0, opacity: 1 }}
+              transition={{ duration: 0.8, delay: 0.8 }}
+            >
+              {stats.map((stat, index) => (
+                <motion.div
+                  key={index}
+                  className="text-center text-white"
+                  whileHover={{ scale: 1.06 }}
+                  transition={{ type: 'spring', stiffness: 300 }}
+                >
+                  <div className="text-4xl md:text-5xl font-bold mb-1">{stat.value}</div>
+                  <div className="text-red-200 text-sm">{stat.label}</div>
+                </motion.div>
+              ))}
+            </motion.div>
+          </div>
+        </div>
+        */}
+      </section>
+      
+
+      {/* ── Features Section ── */}
+      <section className="py-24 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-6">
           <motion.div
-            className="grid grid-cols-2 md:grid-cols-4 gap-8 mt-20"
-            initial={{ y: 50, opacity: 0 }}
-            animate={{ y: 0, opacity: 1 }}
-            transition={{ duration: 0.8, delay: 0.8 }}
+            className="text-center mb-16"
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.8 }}
           >
-            {stats.map((stat, index) => (
+            <h2 className="text-4xl md:text-5xl font-bold mb-4 text-gray-900">Fonctionnalités Exceptionnelles</h2>
+            <p className="text-xl text-gray-500">Tout ce dont vous avez besoin pour gérer votre entreprise</p>
+          </motion.div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {features.map((feature, index) => {
+              const Icon = feature.icon;
+              return (
+                <motion.div
+                  key={index}
+                  className="bg-white rounded-2xl p-6 shadow-xl hover:shadow-2xl transition-all border border-gray-100"
+                  initial={{ opacity: 0, y: 40 }}
+                  whileInView={{ opacity: 1, y: 0 }}
+                  viewport={{ once: true }}
+                  transition={{ duration: 0.5, delay: index * 0.1 }}
+                  whileHover={{ y: -6 }}
+                >
+                  <div className={`w-12 h-12 bg-gradient-to-br ${feature.color} rounded-xl flex items-center justify-center mb-4 shadow-md`}>
+                    <Icon className="w-6 h-6 text-white" />
+                  </div>
+                  <h3 className="text-xl font-bold mb-2 text-gray-900">{feature.title}</h3>
+                  <p className="text-gray-500">{feature.description}</p>
+                </motion.div>
+              );
+            })}
+          </div>
+        </div>
+      </section>
+
+      {/* ── Departments Section ── */}
+      <section className="py-24 bg-white">
+        <div className="max-w-7xl mx-auto px-6">
+          <motion.div
+            className="text-center mb-16"
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.8 }}
+          >
+            <h2 className="text-4xl md:text-5xl font-bold mb-4 text-gray-900">Tous vos Départements Unifiés</h2>
+            <p className="text-xl text-gray-500">Une solution complète pour toute votre organisation</p>
+          </motion.div>
+
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+            {departments.map((dept, index) => (
               <motion.div
                 key={index}
-                className="text-center"
-                whileHover={{ scale: 1.05 }}
-                transition={{ type: "spring", stiffness: 300 }}
+                className="bg-white border-2 border-gray-100 hover:border-[#A11C1C] rounded-xl p-4 text-center shadow-md hover:shadow-xl transition-all cursor-pointer group"
+                initial={{ opacity: 0, scale: 0.85 }}
+                whileInView={{ opacity: 1, scale: 1 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.4, delay: index * 0.05 }}
+                whileHover={{ scale: 1.04 }}
               >
-                <div className="text-4xl md:text-5xl mb-2 bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-                  {stat.value}
-                </div>
-                <div className="text-gray-400">{stat.label}</div>
+                <CheckCircle className="w-5 h-5 text-[#A11C1C] mx-auto mb-2 group-hover:scale-110 transition-transform" />
+                <span className="text-sm font-medium text-gray-700">{dept}</span>
               </motion.div>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── CTA Section ── */}
+      <section className="py-24 bg-gradient-to-br from-white to-white text-white">
+        <div className="max-w-7xl mx-auto px-6">
+          <motion.div
+            className="relative overflow-hidden bg-[#A11C1C] rounded-3xl p-12 text-center shadow-2xl"
+            initial={{ opacity: 0, y: 40 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.8 }}
+          >
+            {/* Subtle inner glow */}
+            <div className="absolute inset-0 opacity-20"
+              style={{
+                backgroundImage: `radial-gradient(circle at 50% 0%, white 0%, transparent 60%)`
+              }}
+            />
+            <div className="relative z-10">
+              <h2 className="text-4xl md:text-5xl font-bold mb-4">Prêt à transformer votre entreprise ?</h2>
+              <p className="text-xl text-red-100 mb-8">Rejoignez des milliers d'entreprises qui nous font confiance</p>
+              <Button
+                size="lg"
+                onClick={onGetStarted}
+                className="bg-white text-[#A11C1C] hover:bg-gray-100 px-8 py-6 text-lg font-semibold shadow-xl"
+              >
+                Commencer gratuitement
+                <ArrowRight className="w-5 h-5 ml-2" />
+              </Button>
+            </div>
           </motion.div>
         </div>
-      </div>
+      </section>
 
-      {/* Features Section */}
-      <div className="relative z-10 container mx-auto px-6 py-20">
-        <motion.div
-          className="text-center mb-16"
-          initial={{ opacity: 0 }}
-          whileInView={{ opacity: 1 }}
-          viewport={{ once: true }}
-          transition={{ duration: 0.8 }}
-        >
-          <h2 className="text-4xl md:text-5xl mb-4">Fonctionnalités Exceptionnelles</h2>
-          <p className="text-xl text-gray-400">Tout ce dont vous avez besoin pour gérer votre entreprise</p>
-        </motion.div>
-
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {features.map((feature, index) => {
-            const Icon = feature.icon;
-            return (
-              <motion.div
-                key={index}
-                className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6 hover:bg-white/10 transition-all"
-                initial={{ opacity: 0, y: 50 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true }}
-                transition={{ duration: 0.5, delay: index * 0.1 }}
-                whileHover={{ y: -5 }}
-              >
-                <div className={`w-12 h-12 bg-gradient-to-br ${feature.color} rounded-xl flex items-center justify-center mb-4`}>
-                  <Icon className="w-6 h-6 text-white" />
-                </div>
-                <h3 className="text-xl mb-2">{feature.title}</h3>
-                <p className="text-gray-400">{feature.description}</p>
-              </motion.div>
-            );
-          })}
-        </div>
-      </div>
-
-      {/* Departments Section */}
-      <div className="relative z-10 container mx-auto px-6 py-20">
-        <motion.div
-          className="text-center mb-16"
-          initial={{ opacity: 0 }}
-          whileInView={{ opacity: 1 }}
-          viewport={{ once: true }}
-          transition={{ duration: 0.8 }}
-        >
-          <h2 className="text-4xl md:text-5xl mb-4">Tous vos Départements Unifiés</h2>
-          <p className="text-xl text-gray-400">Une solution complète pour toute votre organisation</p>
-        </motion.div>
-
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-          {departments.map((dept, index) => (
-            <motion.div
-              key={index}
-              className="bg-gradient-to-br from-white/10 to-white/5 backdrop-blur-sm border border-white/10 rounded-xl p-4 text-center"
-              initial={{ opacity: 0, scale: 0.8 }}
-              whileInView={{ opacity: 1, scale: 1 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.5, delay: index * 0.05 }}
-              whileHover={{ scale: 1.05, borderColor: 'rgba(255,255,255,0.3)' }}
-            >
-              <CheckCircle className="w-5 h-5 text-green-400 mx-auto mb-2" />
-              <span className="text-sm">{dept}</span>
-            </motion.div>
-          ))}
-        </div>
-      </div>
-
-      {/* CTA Section */}
-      <div className="relative z-10 container mx-auto px-6 py-20">
-        <motion.div
-          className="bg-gradient-to-r from-blue-600/20 to-purple-600/20 backdrop-blur-sm border border-white/10 rounded-3xl p-12 text-center"
-          initial={{ opacity: 0, y: 50 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          transition={{ duration: 0.8 }}
-        >
-          <h2 className="text-4xl md:text-5xl mb-4">Prêt à transformer votre entreprise ?</h2>
-          <p className="text-xl text-gray-300 mb-8">Rejoignez des milliers d'entreprises qui nous font confiance</p>
-          <Button 
-            size="lg"
-            onClick={onGetStarted}
-            className="bg-white text-black hover:bg-gray-100 px-8 py-6 text-lg"
-          >
-            Commencer gratuitement
-            <ArrowRight className="w-5 h-5 ml-2" />
-          </Button>
-        </motion.div>
-      </div>
-
-      {/* Footer */}
-      <div className="relative z-10 border-t border-white/10 mt-20">
-        <div className="container mx-auto px-6 py-8">
+      {/* ── Footer ── */}
+      <footer className="bg-white border-t border-gray-100">
+        <div className="max-w-7xl mx-auto px-6 py-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-            <div className="flex items-center gap-2">
-              <Building2 className="w-6 h-6" />
+            <div className="flex items-center gap-2 text-gray-600">
+              <Building2 className="w-5 h-5 text-[#A11C1C]" />
               <span>© 2024 Enterprise ERP. Tous droits réservés.</span>
             </div>
             <div className="flex gap-6 text-gray-400">
-              <a href="#" className="hover:text-white transition-colors">Confidentialité</a>
-              <a href="#" className="hover:text-white transition-colors">Conditions</a>
-              <a href="#" className="hover:text-white transition-colors">Support</a>
+              <a href="#" className="hover:text-[#A11C1C] transition-colors text-sm">Confidentialité</a>
+              <a href="#" className="hover:text-[#A11C1C] transition-colors text-sm">Conditions</a>
+              <a href="#" className="hover:text-[#A11C1C] transition-colors text-sm">Support</a>
             </div>
           </div>
         </div>
-      </div>
+      </footer>
     </div>
   );
 }
